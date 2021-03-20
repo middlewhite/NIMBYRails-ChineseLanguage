@@ -104,7 +104,7 @@ msgstr "上一列车"
 #v1.1.58
 msgctxt "lineeditor_auto_eta_expected_pax"
 msgid "Pax occupancy %:"
-msgstr "人数占比 %:"
+msgstr "乘客占比 %:"
 
 #v1.1.58
 msgctxt "lineeditor_pax_transfer_ai"
@@ -239,7 +239,7 @@ msgstr "在 {} 站台上候车"
 #v1.1.58
 msgctxt "path_pax_train_warn"
 msgid "Path starts at pax next stop"
-msgstr "行程路径在下一个停靠点开始"
+msgstr "行程路径从下一个停靠点开始"
 
 #v1.1.58
 msgctxt "paxlist_waiting_pax"
@@ -594,7 +594,7 @@ msgstr "{0:.2f}m / {1:.2f}m"
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "已误点 {0}，已行驶 {1:.1f} km 总共 {2:.1f} km"
+msgstr "已晚点 {0}，已行驶 {1:.1f} km 总共 {2:.1f} km"
 
 #v1.1.58
 msgctxt "train_info_power"
@@ -614,7 +614,7 @@ msgstr "列车价格"
 #v1.1.58
 msgctxt "train_texture_info"
 msgid "Train textures: {} of {} max"
-msgstr "列车纹理: 共 {} 个，最多 {} 个"
+msgstr "列车纹理: 已使用 {} 个，最多 {} 个"
 
 #v1.1.58
 msgctxt "train_textures_option"
@@ -664,7 +664,7 @@ msgstr "{0}节 编组 / {1:.2f}m / {2:.2f}m"
 #v1.1.58
 msgctxt "train_total_price_1"
 msgid "Total for 1 train"
-msgstr "总计1辆列车"
+msgstr "总计 1辆 列车"
 
 #v1.1.58
 msgctxt "train_total_price_many"
@@ -714,7 +714,7 @@ msgstr "60 分钟"
 #v1.1.31
 msgctxt "accounting"
 msgid "Accounting"
-msgstr "会计"
+msgstr "财务"
 
 #v1.1.31
 msgctxt "accounting_cash_total"
@@ -743,13 +743,13 @@ msgstr "总计建造"
 
 #v1.1.31
 msgctxt "accounting_construction_tracks"
-msgid "轨道"
-msgstr "Vías"
+msgid "Tracks"
+msgstr "轨道"
 
 #v1.1.31
 msgctxt "accounting_financing"
 msgid "Financing"
-msgstr "财政"
+msgstr "资金"
 
 #v1.1.31
 msgctxt "accounting_financing_credit"
@@ -819,7 +819,7 @@ msgstr "退票人数 (含赔偿人数)"
 #v1.1.37
 msgctxt "accounting_pax_refused_fare"
 msgid "Refund: too high fare"
-msgstr "退票.: 车牌太贵"
+msgstr "退票.: 车票太贵"
 
 #v1.1.31
 msgctxt "accounting_pax_spawned"
@@ -839,7 +839,7 @@ msgstr "日"
 #v1.1.31
 msgctxt "accounting_period_lifetme"
 msgid "Lifetime"
-msgstr "毕生"
+msgstr "全部"
 
 #v1.1.31
 msgctxt "accounting_period_month"
@@ -939,512 +939,512 @@ msgstr "出售列车"
 #v1.1.37
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {} UTC-0"
-msgstr "会计时间.: {} UTC-0"
+msgstr "时间.: {} UTC-0"
 
 #v1.1.31
 msgctxt "accounting_week_title"
 msgid "Week of {0} {1} {2}"
-msgstr "Semana de {0} {1} {2}"
+msgstr "0- {0} 1-{1} 2-{2}"
 
 #v1.1.31
 msgctxt "acl_action_allow"
 msgid "Always allow"
-msgstr "Permitir siempre"
+msgstr "始终允许"
 
 #v1.1.31
 msgctxt "acl_action_drop"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "忽略"
 
 #v1.1.31
 msgctxt "acl_action_queue"
 msgid "Ask me"
-msgstr "Pregúntame"
+msgstr "询问"
 
 #v1.1.31
 msgctxt "acl_allowed"
 msgid "Allowed"
-msgstr "Permitido"
+msgstr "允许"
 
 #v1.1.31
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Denegado"
+msgstr "拒绝"
 
 #v1.1.31
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
-msgstr "Si un amigo no invitado quiere entrar:"
+msgstr "一个未邀请的好友想要加入:"
 
 #v1.1.31
 msgctxt "acl_pending"
 msgid "Pending"
-msgstr "Pendiente"
+msgstr "待办"
 
 #v1.1.31
 msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
-msgstr "Si un desconocido quiere entrar:"
+msgstr "一个未邀请的玩家想要加入:"
 
 #v1.1.31
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Intervalo de autoguarda:"
+msgstr "自动保存间隔:"
 
 #v1.1.31
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Total autoguardas:"
+msgstr "用于自动保存的文件数:"
 
 #v1.1.31
 msgctxt "autosaving"
 msgid "Autosaving..."
-msgstr "Autoguarda..."
+msgstr "自动保存中..."
 
 #v1.1.31
 msgctxt "back"
 msgid "Back"
-msgstr "Volver"
+msgstr "返回"
 
 #v1.1.31
 msgctxt "bad_angle"
 msgid "bad angle"
-msgstr "mal ángulo"
+msgstr "角度错误"
 
 #v1.1.31
 msgctxt "banner_expain_ignore"
 msgid "Ignored join requests can be authorized in the server management window."
-msgstr "Las peticiones de entrar ignoradas se pueden autorizan en la ventana de administración del servidor."
+msgstr "可以在服务器管理窗口中授权忽略的加入请求."
 
 #v1.1.31
 msgctxt "banner_join_friend"
 msgid "{} wants to join your game."
-msgstr "{} quiere entrar en tu partida."
+msgstr "{} 请求加入您的游戏。"
 
 #v1.1.31
 msgctxt "banner_join_stranger"
 msgid "{} (not a friend) wants to join your game."
-msgstr "{} (desconocido) quiere entrar en tu partida."
+msgstr "{} (非好友)请求加入您的游戏。"
 
 #v1.1.31
 msgctxt "banner_new_join"
 msgid "{} joined the game."
-msgstr "{} ha entrado en la partida."
+msgstr "{} 加入游戏"
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "您确认要加入 {} 的游戏? 您的游戏进度会被自动保存，并退出当前服务器"
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "{0} 邀请您加入 {1} 的游戏。您的游戏进度会被自动保存，并退出当前服务器。您确认要加入吗？"
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará."
+msgstr "您确认要加入 {} 的游戏? 您的游戏进度会被自动保存。"
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará."
+msgstr "{0} 邀请您加入 {1} 的游戏。 您的游戏进度会被自动保存。您确认要加入吗？"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
 msgid "Do you want to join a game hosted by {}?"
-msgstr "Quieres entrar a una partida hospedada por {}?"
+msgstr "您确认要加入 {} 的游戏?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join?"
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar?"
+msgstr "{0} 邀请您加入 {1} 的游戏。您确认要加入吗？"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "Do you want to join a game hosted by {}? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "您确认要加入 {} 的游戏?  请 注 意！:  您正在主持一场游戏，所有连接的玩家都将被断开，而您的游戏进度会被自动保存。"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "{0} 邀请您加入 {1} 的游戏。 请 注 意！: 您正在主持一场游戏，所有连接的玩家都将被断开，而您的游戏进度会被自动保存。您确认要加入吗？"
 
 #v1.1.31
 msgctxt "bill_tab_client"
 msgid "By me"
-msgstr "Míos"
+msgstr "我制作的"
 
 #v1.1.31
 msgctxt "bill_tab_global"
 msgid "Global"
-msgstr "Global"
+msgstr "全球"
 
 #v1.1.31
 msgctxt "bill_tab_selection"
 msgid "Selection"
-msgstr "Selección"
+msgstr "选择"
 
 #v1.1.31
 msgctxt "build"
 msgid "Build"
-msgstr "Construir"
+msgstr "建造"
 
 #v1.1.31
 msgctxt "build_all_bp"
 msgid "Build all blueprints"
-msgstr "Construir todos los planos"
+msgstr "建造所有蓝图"
 
 #v1.1.31
 msgctxt "build_my_bp"
 msgid "Build my blueprints"
-msgstr "Construir mis planos"
+msgstr "建造我的蓝图"
 
 #v1.1.31
 msgctxt "build_selected_bp"
 msgid "Build selected blueprints"
-msgstr "Construir planos seleccionados"
+msgstr "建造选择的蓝图"
 
 #v1.1.31
 msgctxt "cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "取消"
 
 #v1.1.31
 msgctxt "cancel_quit"
 msgid "Quit"
-msgstr "Salir"
+msgstr "退出"
 
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
-msgstr "Factura de mis planos"
+msgstr "我的蓝图费用"
 
 #v1.1.31
 msgctxt "client_conn_info"
 msgid "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
-msgstr "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
+msgstr "主持: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
 
 #v1.1.37
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
-msgstr "Estadísticas de streaming de cliente"
+msgstr "客户端流量统计"
 
 #v1.1.31
 msgctxt "company_tab_info"
 msgid "Info"
-msgstr "Info"
+msgstr "信息"
 
 #v1.1.31
 msgctxt "confirm_bp"
 msgid "Do you want to build the current blueprint?"
-msgstr "Quieres construir los planos actuales?"
+msgstr "您要构建当前的蓝图吗？"
 
 #v1.1.31
 msgctxt "confirm_bp_price"
 msgid "Do you want to build the current blueprint for ${}?"
-msgstr "Quieres construir los planos actuales por un precio de ${}?"
+msgstr "您确认以 ${} 的价格构建当前的蓝图吗?"
 
 #v1.1.31
 msgctxt "confirm_construction"
 msgid "Confirm construction"
-msgstr "Confirmar construcción"
+msgstr "确认建造"
 
 #v1.1.31
 msgctxt "confirm_delete"
 msgid "Confirm delete"
-msgstr "Confirmar borrado"
+msgstr "确认删除"
 
 #v1.1.31
 msgctxt "confirm_delete_desc"
 msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Una o más vías ya han sido construidas. Borrar estas vías no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
+msgstr "已有一个或多个选择的轨道已被建造，删除他们不会返还您的钱。此操作无法撤销，您确定吗?"
 
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
-msgstr "colisión con agua o calles"
+msgstr "有水域或道路碰撞"
 
 #v1.1.31
 msgctxt "conflicts"
 msgid "Conflicts"
-msgstr "Conflictos"
+msgstr "冲突"
 
 #v1.1.37
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed, or their validation is still pending. Move, edit or delete all tracks marked in red."
-msgstr "Una o más vías tiene conflictos y no se pueden construir, o no está validada. Mueve, edita o borra todas las vías de color rojo."
+msgstr "有一条或多条轨道存在冲突或验证中。无法移动、编辑或删除所有红色标记的轨道。"
 
 #v1.1.31
 msgctxt "connecting_elip"
 msgid "Connecting..."
-msgstr "Conectando..."
+msgstr "连接中..."
 
 #v1.1.31
 msgctxt "connection_denied"
 msgid "Connection denied"
-msgstr "Conexión denegada"
+msgstr "连接被拒绝"
 
 #v1.1.31
 msgctxt "construct_no_bps"
 msgid "There are no pending track or station blueprints to build"
-msgstr "No hay planos de vías o estaciones pendientes de construcción"
+msgstr "没有待建的轨道或车站蓝图"
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
-msgstr "No hay dinero suficiente para la construcción"
+msgstr "没有足够的资金用于建造"
 
 #v1.1.31
 msgctxt "construction_conflicts_error"
 msgid "Conflicts block construction"
-msgstr "Hay conflictos bloqueando la construcción"
+msgstr "Conflicts block construction"
 
 #v1.1.37
 msgctxt "continue_game"
 msgid "Continue game"
-msgstr "Continuar partida"
+msgstr "继续游戏"
 
 #v1.1.31
 msgctxt "copy"
 msgid "Copy"
-msgstr "Copiar"
+msgstr "复制"
 
 #v1.1.31
 msgctxt "credits"
 msgid "Credits"
-msgstr "Créditos"
+msgstr "翻译补丁:middlewhite"
 
 #v1.1.31
 msgctxt "credits_acknowledgments"
 msgid "Acknowledgments"
-msgstr "Licencias"
+msgstr "致谢"
 
 #v1.1.31
 msgctxt "credits_art"
 msgid "Art"
-msgstr "Ilustración"
+msgstr "美术"
 
 #v1.1.31
 msgctxt "credits_programming"
 msgid "Programming and design"
-msgstr "Programación y diseño"
+msgstr "程序设计"
 
 #v1.1.31
 msgctxt "credits_thanks"
 msgid "Thanks"
-msgstr "Agradecimientos"
+msgstr "感谢"
 
 #v1.1.31
 msgctxt "crossings_n_0"
 msgid "0 crossings"
-msgstr "0 cruces"
+msgstr "0个 交叉口"
 
 #v1.1.31
 msgctxt "crossings_n_1"
 msgid "1 crossing"
-msgstr "1 cruce"
+msgstr "1个 交叉口"
 
 #v1.1.31
 msgctxt "crossings_n_many"
 msgid "%d crossings"
-msgstr "%d cruces"
+msgstr "%d个 交叉口"
 
 #v1.1.31
 msgctxt "custom_admin_level_poi"
 msgid "POI"
-msgstr "PDI"
+msgstr "custom_admin_level_poi"
 
 #v1.1.31
 msgctxt "custom_admin_level_transport"
 msgid "Transportation"
-msgstr "Transportes"
+msgstr "运输"
 
 #v1.1.31
 msgctxt "default_han_font"
 msgid "Default Han font:"
-msgstr "Fuente Han predet.:"
+msgstr "默认汉字字体.:"
 
 #v1.1.31
 msgctxt "default_han_font_chi"
 msgid "Simplified Chinese"
-msgstr "Chino simplificado"
+msgstr "简体中文"
 
 #v1.1.31
 msgctxt "default_han_font_jpn"
 msgid "Japanese"
-msgstr "Japonés"
+msgstr "日文"
 
 #v1.1.31
 msgctxt "default_han_font_kor"
 msgid "Korean"
-msgstr "Koreano"
+msgstr "韩文"
 
 #v1.1.31
 msgctxt "default_han_font_zho"
 msgid "Traditional Chinese"
-msgstr "Chino tradicional"
+msgstr "繁体中文"
 
 #v1.1.31
 msgctxt "default_train_name"
 msgid "Train {}"
-msgstr "Tren {}"
+msgstr "列车 {}"
 
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr "Mover la partida guardada a la papelera"
+msgstr "将选中的游戏移动至回收站"
 
 #v1.1.31
 msgctxt "delete_tracks"
 msgid "Delete tracks"
-msgstr "Borrar vías"
+msgstr "删除轨道"
 
 #v1.1.31
 msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
-msgstr "{:.1f} pax/s"
+msgstr "{:.1f} 乘客/秒"
 
 #v1.1.31
 msgctxt "depot_at"
 msgid "Depot at"
-msgstr "Depósito en"
+msgstr "车库"
 
 #v1.1.31
 msgctxt "depots_n_0"
 msgid "0 depots"
-msgstr "0 depósitos"
+msgstr "0个 车库"
 
 #v1.1.31
 msgctxt "depots_n_1"
 msgid "1 depot"
-msgstr "1 depósito"
+msgstr "1个 车库"
 
 #v1.1.31
 msgctxt "depots_n_many"
 msgid "%d depots"
-msgstr "%d depósitos"
+msgstr "%d个 车库"
 
 #v1.1.31
 msgctxt "description"
 msgid "Description:"
-msgstr "Descripción:"
+msgstr "描述:"
 
 #v1.1.31
 msgctxt "disabled"
 msgid "Disabled"
-msgstr "Desactivado"
+msgstr "禁用"
 
 #v1.1.31
 msgctxt "display_mode"
 msgid "Mode:"
-msgstr "Modo:"
+msgstr "显示模式:"
 
 #v1.1.31
 msgctxt "display_mode_exclusive_fullscreen"
 msgid "Exclusive fullscreen"
-msgstr "Pantalla completa excl."
+msgstr "全屏独占"
 
 #v1.1.31
 msgctxt "display_mode_windowed"
 msgid "Windowed"
-msgstr "Ventana"
+msgstr "窗口化"
 
 #v1.1.31
 msgctxt "display_mode_windowed_fullscreen"
 msgid "Windowed fullscreen"
-msgstr "Ventana pantalla completa"
+msgstr "无边框窗口化"
 
 #v1.1.31
 msgctxt "display_screen"
 msgid "Display:"
-msgstr "Monitor:"
+msgstr "显示屏幕:"
 
 #v1.1.31
 msgctxt "display_screen_leave_alone"
 msgid "Do not set"
-msgstr "No cambiar"
+msgstr "默认"
 
 #v1.1.31
 msgctxt "done"
 msgid "Done"
-msgstr "Hecho"
+msgstr "缺点"
 
 #v1.1.37
 msgctxt "editor_add"
 msgid "Append to tracks or create [N]ew ones"
-msgstr "Añadir a vías o crear [N]uevas vías"
+msgstr "创建或添加新的轨道 [N]"
 
 #v1.1.37
 msgctxt "editor_branch"
 msgid "Create new track [B]ranches"
-msgstr "Crear nuevas ramas de vías [B]"
+msgstr "创建新的轨道岔口 [B]"
 
 #v1.1.37
 msgctxt "editor_depot"
 msgid "Create new de[P]ot"
-msgstr "Crear nuevo de[P]ósito"
+msgstr "创建新的车库 [P]"
 
 #v1.1.37
 msgctxt "editor_move"
 msgid "[M]ove, delete and edit tracks"
-msgstr "[M]over, borrar y editar vías"
+msgstr "移动、删除及编辑轨道 [M]"
 
 #v1.1.31
 msgctxt "editor_select_add_waypoint"
 msgid "Click track segments to add waypoints to the line"
-msgstr "Click en los segmentos de vías para añadir puntos de ruta"
+msgstr "单击轨道以将停靠点添加到此线路"
 
 #v1.1.31
 msgctxt "editor_select_pick_depot"
 msgid "Click a depot on the map to set this train slot order"
-msgstr "Click en un depósito en el mapa para editar esta orden"
+msgstr "点击地图上的车库以设置列车顺序"
 
 #v1.1.37
 msgctxt "editor_station"
 msgid "Create new s[T]ation platforms"
-msgstr "Crear nuevas plataformas de es[t]ación"
+msgstr "创建新的车站站台 [T]"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "按 Esc 进入编辑模式"
 
 #v1.1.31
 msgctxt "editor_tip_add_left1"
 msgid "Left click on the existing end of track control points to continue an existing track"
-msgstr "Click izquierdo en los controles de los extremos de las vías para continuar una vía existente"
+msgstr "左击轨道控制点以延伸现有轨道"
 
 #v1.1.31
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
-msgstr "Click izquierdo en cualquier otra parte para empezar una nueva vía"
+msgstr "左击任意位置以创建新的轨道"
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "按 Esc 进入编辑模式"
 
 #v1.1.31
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
-msgstr "Click izquierdo para crear una rama"
+msgstr "左击以创建轨道岔口"
 
 #v1.1.31
 msgctxt "editor_tip_branch_mouse"
 msgid "Hover the mouse cursor near an existing track to see a new track branch"
-msgstr "Acerca el cursor a una vía existente para empezar una nueva rama"
+msgstr "将鼠标悬停在现有轨道附近以查看新的轨道分支"
 
 #v1.1.31
 msgctxt "editor_tip_branch_shift"
 msgid "Press shift for opposite direction"
-msgstr "Presiona shift para la dirección opuesta"
+msgstr "按下 shift 改变轨道分岔方向"
 
 #v1.1.31
 msgctxt "editor_tip_cont_esc"
 msgid "Esc to cancel"
-msgstr "Esc para cancelar"
+msgstr "按下 Esc 取消"
 
 #v1.1.31
 msgctxt "editor_tip_cont_left"
