@@ -1,2 +1,19 @@
+本文档采用Markdown语法所写
+
 # NIMBY Rails 汉化补丁
-将优先对新版本更新内容进行汉化，并逐步补全旧版本的汉化。
+
+#### 安装方式：
+##### Steam创意工坊订阅：
+订阅即可
+##### GitHub下载：
+下载后解压缩至*C:\Users\<您的用户名>\Saved Games\Weird and Wry\NIMBY Rails\mods*文件夹下
+
+#### 使用方式：游戏主菜单 -> Options -> Language -> SChinese
+因为ISO码占用的问题，因此与其他汉化补丁同时安装时将无法使用。
+
+###### 目前翻译补丁所使用的游戏版本：1.1.58，并将尽可能在游戏更新第一时间更新汉化补丁。
+
+------------
+
+Schinese汉化补丁改编自官方的[西班牙语翻译](https://github.com/weirdandwry/nr-local-spa "西班牙语翻译")以及使用谷歌翻译进行辅助。
+如果您发现了汉化补丁的不足或有其他建议欢迎在[GitHub主页](https://github.com/middlewhite/NIMBYRails-ChineseLanguage "GitHub主页")向我反应。
