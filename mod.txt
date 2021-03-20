@@ -1,0 +1,13 @@
+[ModMeta]
+schema=1
+name=SChinese
+author=middlewhite
+version=test-0.0.1
+
+[Language]
+code_iso_639_2=zho
+name=SChinese
+
+[LanguageDict]
+code_iso_639_2=zho
+po=game.po
