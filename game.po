@@ -1544,7 +1544,7 @@ msgstr "松开左键以取消移动控制点"
 #v1.1.31
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
-msgstr "松开左键以取消框选"
+msgstr "松开左键以结束框选"
 
 #v1.1.31
 msgctxt "editor_tip_station_esc"
@@ -2359,7 +2359,7 @@ msgstr "在此游戏中禁用"
 #v1.1.37
 msgctxt "mod_enable_all_installed"
 msgid "Enable all installed mods"
-msgstr "启用所以已安装的mod"
+msgstr "启用所有已安装的mod"
 
 #v1.1.37
 msgctxt "mod_enable_in_game"
@@ -2509,62 +2509,62 @@ msgstr "Mods"
 #v1.1.31
 msgctxt "month_april"
 msgid "April"
-msgstr "四月"
+msgstr "四"
 
 #v1.1.31
 msgctxt "month_august"
 msgid "August"
-msgstr "八月"
+msgstr "八"
 
 #v1.1.31
 msgctxt "month_december"
 msgid "December"
-msgstr "十二月"
+msgstr "十二"
 
 #v1.1.31
 msgctxt "month_february"
 msgid "February"
-msgstr "二月"
+msgstr "二"
 
 #v1.1.31
 msgctxt "month_january"
 msgid "January"
-msgstr "一月"
+msgstr "一"
 
 #v1.1.31
 msgctxt "month_july"
 msgid "July"
-msgstr "七月"
+msgstr "七"
 
 #v1.1.31
 msgctxt "month_june"
 msgid "June"
-msgstr "六月"
+msgstr "六"
 
 #v1.1.31
 msgctxt "month_march"
 msgid "March"
-msgstr "三月"
+msgstr "三"
 
 #v1.1.31
 msgctxt "month_may"
 msgid "May"
-msgstr "五月"
+msgstr "五"
 
 #v1.1.31
 msgctxt "month_november"
 msgid "November"
-msgstr "十一月"
+msgstr "十一"
 
 #v1.1.31
 msgctxt "month_october"
 msgid "October"
-msgstr "十月"
+msgstr "十"
 
 #v1.1.31
 msgctxt "month_september"
 msgid "September"
-msgstr "九月"
+msgstr "九"
 
 #v1.1.31
 msgctxt "month_short_april"
@@ -2759,7 +2759,7 @@ msgstr "车站事件"
 #v1.1.37
 msgctxt "mvo_user_station_icons"
 msgid "Station icons"
-msgstr "车站图标"
+msgstr "车站及车库图标"
 
 #v1.1.37
 msgctxt "mvo_user_station_names"
@@ -2944,7 +2944,7 @@ msgstr "覆盖其他版本的文件"
 #v1.1.31
 msgctxt "ovewrite_name"
 msgid "Overwrite {}?"
-msgstr "覆盖 {}?"
+msgstr "您确认要覆盖 {} ?"
 
 #v1.1.37
 msgctxt "ovewrite_other_desc"
