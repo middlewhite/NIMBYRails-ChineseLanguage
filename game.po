@@ -218,8 +218,8 @@ msgstr "游戏载入中"
 
 #v1.1.58
 msgctxt "mvo_user_map_region_names"
-msgid "地图标签"
-msgstr "Etiquetas de mapa"
+msgid ""
+msgstr "地图标签"
 
 #v1.1.58
 msgctxt "option_company_demand"
@@ -259,7 +259,7 @@ msgstr "购买列车"
 #v1.1.58
 msgctxt "stop_leg_at_speed"
 msgid "at"
-msgstr "在"
+msgstr ""
 
 #v1.1.58
 msgctxt "stop_leg_at_speed_units"
@@ -269,7 +269,7 @@ msgstr "最小 km/h"
 #v1.1.58
 msgctxt "stop_leg_m"
 msgid "{}m in"
-msgstr "{}m stop_leg_m"
+msgstr "距离: {}m"
 
 #v1.1.58
 msgctxt "tag_autorack"
@@ -894,7 +894,7 @@ msgstr "赔偿"
 #v1.1.31
 msgctxt "accounting_ticketing_fares"
 msgid "Fares"
-msgstr "车牌"
+msgstr "车票"
 
 #v1.1.37
 msgctxt "accounting_ticketing_profit"
@@ -2204,7 +2204,7 @@ msgstr "%d条 线路"
 #v1.1.37
 msgctxt "list_sort_reverse"
 msgid "Reverse"
-msgstr "相反"
+msgstr "倒序"
 
 #v1.1.31
 msgctxt "load_game"
@@ -3459,7 +3459,7 @@ msgstr "编号:"
 #v1.1.31
 msgctxt "train_decal_color_edit"
 msgid "Decal color:"
-msgstr "Color decor.:"
+msgstr "装饰颜色.:"
 
 #v1.1.31
 msgctxt "train_decal_edit"
