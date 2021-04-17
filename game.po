@@ -1,6 +1,281 @@
 # ----------------------------------------------------------
 # new strings
 
+#v1.1.72
+msgctxt "accounting_km_post"
+msgid "km"
+msgstr "km"
+
+#v1.1.72
+msgctxt "accounting_pax_never_serviced"
+msgid "Never serviced"
+msgstr "未服务"
+
+#v1.1.72
+msgctxt "accounting_pax_new"
+msgid "New pax"
+msgstr "新乘客"
+
+#v1.1.72
+msgctxt "accounting_period_lifetime"
+msgid "Lifetime"
+msgstr "全部"
+
+#v1.1.72
+msgctxt "accounting_period_lifetime_unknown"
+msgid "Since its creation"
+msgstr "自创建以来"
+
+#v1.1.72
+msgctxt "accounting_stats_now"
+msgid "Now"
+msgstr "现在"
+
+#v1.1.72
+msgctxt "asset_lines"
+msgid "Lines"
+msgstr "线路"
+
+#v1.1.72
+msgctxt "asset_stations"
+msgid "Stations"
+msgstr "车站"
+
+#v1.1.72
+msgctxt "asset_trains"
+msgid "Trains"
+msgstr "列车"
+
+#v1.1.72
+msgctxt "balance"
+msgid "Balance"
+msgstr "平衡"
+
+#v1.1.72
+msgctxt "confirm_set_no_cash"
+msgid "Confirm switching to unlimited money"
+msgstr "确认切换为无限资金"
+
+#v1.1.72
+msgctxt "confirm_set_no_cash_desc"
+msgid "Switching to unlimited money cannot be undone. Are you sure?"
+msgstr "切换为无限资金是不可逆的，你确定吗?"
+
+#v1.1.72
+msgctxt "delete_line_sell_trains"
+msgid "Delete and sell trains"
+msgstr "删除并出售列车"
+
+#v1.1.72
+msgctxt "editor_warn_need_train_acc"
+msgid "Schedule at least one train to this line."
+msgstr "至少分配一辆列车至线路"
+
+#v1.1.72
+msgctxt "editor_warn_train_speed_too_high"
+msgid "Trains might be unable to adapt to dynamic traffic and mass conditions at this min. speed"
+msgstr "列车可能无法以这种速度适应交通状况"
+
+#v1.1.72
+msgctxt "lineeditor_tooltip_purchase_trains"
+msgid "Purchase new trains for this line"
+msgstr "为此线路购买新列车"
+
+#v1.1.72
+msgctxt "option_company_switch_no_cash"
+msgid "Switch to unlimited money"
+msgstr "切换为无限资金"
+
+#v1.1.72
+msgctxt "option_local_pax_ai"
+msgid "Pax AI at stations:"
+msgstr "车站的AI乘客:"
+
+#v1.1.72
+msgctxt "option_local_pax_ai_disabled"
+msgid "Only considers optimal train"
+msgstr "只考虑最佳列车"
+
+#v1.1.72
+msgctxt "option_local_pax_ai_enabled"
+msgid "Considers any train"
+msgstr "考虑任何列车"
+
+#v1.1.72
+msgctxt "ridership"
+msgid "Ridership"
+msgstr "载客量"
+
+#v1.1.72
+msgctxt "right_bar_assets"
+msgid "Assets"
+msgstr "资产"
+
+#v1.1.72
+msgctxt "rtstat_coverage"
+msgid "Coverage"
+msgstr "覆盖范围"
+
+#v1.1.72
+msgctxt "rtstat_leg_m"
+msgid "Leg remaining distance"
+msgstr "路程剩余距离"
+
+#v1.1.72
+msgctxt "rtstat_leg_s"
+msgid "Leg remaining time"
+msgstr "路程剩余时间"
+
+#v1.1.72
+msgctxt "rtstat_pax_avg_leg_time"
+msgid "Avg. leg time of contained pax"
+msgstr "乘客平均路程时间"
+
+#v1.1.72
+msgctxt "rtstat_pax_avg_time"
+msgid "Avg. total time of contained pax"
+msgstr "乘客平均总时间"
+
+#v1.1.72
+msgctxt "rtstat_pax_capacity"
+msgid "Capacity"
+msgstr "车站容量"
+
+#v1.1.72
+msgctxt "rtstat_pax_capactity_usage"
+msgid "Capacity used %"
+msgstr "已用容量 %"
+
+#v1.1.72
+msgctxt "rtstat_pax_new"
+msgid "Contains new pax"
+msgstr "新乘客人数"
+
+#v1.1.72
+msgctxt "rtstat_pax_total"
+msgid "Contains total pax"
+msgstr "总人数"
+
+#v1.1.72
+msgctxt "rtstat_pax_transfer"
+msgid "Contains transfer pax"
+msgstr "车站换乘乘客"
+
+#v1.1.72
+msgctxt "rtstat_pax_with_destination"
+msgid "Pax with destination at"
+msgstr "车站作为目的地的乘客数"
+
+#v1.1.72
+msgctxt "rtstat_pax_with_next"
+msgid "Pax with next stop at"
+msgstr "车站作为换乘站的乘客数"
+
+#v1.1.72
+msgctxt "rtstat_pax_with_origin"
+msgid "Pax with origin at"
+msgstr "起始站"
+
+#v1.1.72
+msgctxt "rtstat_sax_avg"
+msgid "Satisfaction"
+msgstr "满意度"
+
+#v1.1.72
+msgctxt "rtstat_spawn_rate"
+msgid "Spawn rate"
+msgstr "生成率"
+
+#v1.1.72
+msgctxt "rtstat_speed"
+msgid "Speed"
+msgstr "速度"
+
+#v1.1.72
+msgctxt "sort_sep_accounting"
+msgid "--- Accounting ---"
+msgstr "--- 财务 ---"
+
+#v1.1.72
+msgctxt "sort_sep_real_time"
+msgid "--- Real time ---"
+msgstr "--- 真实时间 ---"
+
+#v1.1.72
+msgctxt "switch_no_cash"
+msgid "Switch to unlimited"
+msgstr "切换至无限"
+
+#v1.1.72
+msgctxt "train_info_price"
+msgid "Price:"
+msgstr "票价:"
+
+#v1.1.72
+msgctxt "train_new_for_line_name"
+msgid "New train for {}"
+msgstr "{} 的新列车"
+
+#v1.1.72
+msgctxt "train_purchase_sched"
+msgid "Schedule:"
+msgstr "日程:"
+
+#v1.1.72
+msgctxt "train_purchase_sched_empty"
+msgid "Blank schedule"
+msgstr "空白时刻表"
+
+#v1.1.72
+msgctxt "train_purchase_sched_simple"
+msgid "Run an existing line"
+msgstr "使用现有的时间线"
+
+#v1.1.72
+msgctxt "unit_kmh"
+msgid "km/h"
+msgstr "km/h"
+
+#v1.1.72
+msgctxt "unit_pax"
+msgid "pax"
+msgstr "乘客"
+
+
+
+# ----------------------------------------------------------
+# modified strings
+
+#v1.1.72
+msgctxt "accounting_utc_warn"
+msgid "Accounting time: {} UTC0"
+msgstr "时间.: {} UTC0"
+
+#v1.1.72
+msgctxt "train_price"
+msgid "Train price:"
+msgstr "列车价格:"
+
+#v1.1.72
+msgctxt "train_total_price_1"
+msgid "Total for 1 train:"
+msgstr "总计 1辆 列车:"
+
+#v1.1.72
+msgctxt "train_total_price_many"
+msgid "Total for %d trains:"
+msgstr "总计 %d辆 列车:"
+
+#v1.1.72
+msgctxt "train_want_clone_schedule"
+msgid "Clone from {}"
+msgstr "克隆 {} 时刻表"
+
+
+
+# ----------------------------------------------------------
+# 1.1.58-
+
 #v1.1.58
 msgctxt "confirm_delete_line"
 msgid "Confirm line deletion"
@@ -606,10 +881,7 @@ msgctxt "train_n_copies"
 msgid "Trains:"
 msgstr "列车:"
 
-#v1.1.58
-msgctxt "train_price"
-msgid "Train price"
-msgstr "列车价格"
+
 
 #v1.1.58
 msgctxt "train_texture_info"
@@ -626,10 +898,7 @@ msgctxt "train_units_inst"
 msgid "Units:"
 msgstr "单位:"
 
-#v1.1.58
-msgctxt "train_want_clone_schedule"
-msgid "Clone schedule of {}"
-msgstr "克隆 {} 时刻表"
+
 
 #v1.1.58
 msgctxt "transfers_to"
@@ -661,15 +930,9 @@ msgctxt "train_info_dim_d"
 msgid "{0} units / {1:.2f}m / {2:.2f}m"
 msgstr "{0}节 编组 / {1:.2f}m / {2:.2f}m"
 
-#v1.1.58
-msgctxt "train_total_price_1"
-msgid "Total for 1 train"
-msgstr "总计 1辆 列车"
 
-#v1.1.58
-msgctxt "train_total_price_many"
-msgid "Total for %d trains"
-msgstr "总计 %d辆 列车"
+
+
 
 #v1.1.58
 msgctxt "traineditor_select_all"
@@ -936,10 +1199,7 @@ msgctxt "accounting_trains_sales"
 msgid "Train sales"
 msgstr "出售列车"
 
-#v1.1.37
-msgctxt "accounting_utc_warn"
-msgid "Accounting time: {} UTC-0"
-msgstr "时间.: {} UTC-0"
+
 
 #v1.1.31
 msgctxt "accounting_week_title"
@@ -1489,7 +1749,7 @@ msgstr "左击轨道或车站控制点以重置选择"
 #v1.1.37
 msgctxt "editor_tip_create_prompt_sel"
 msgid "To move or delete tracks, you must select their control points"
-msgstr "要移动或删除轨道，您必须选择他们的控制点"
+msgstr "要移动或删除轨道，请选择他们的控制点"
 
 #v1.1.31
 msgctxt "editor_tip_create_sleft"
@@ -3059,7 +3319,7 @@ msgstr "快速入门指南"
 #v1.1.31
 msgctxt "quit_desktop"
 msgid "Quit to desktop"
-msgstr "退出至桌面"
+msgstr "退出 NIMBY Rails"
 
 #v1.1.31
 msgctxt "quit_game"
@@ -3589,7 +3849,7 @@ msgstr "总功率"
 #v1.1.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train position to its next stop or depot, pay the costs of relocation, refund its fares, and pay a compensation fine. The price is ${}."
-msgstr 干预会使火车的位置复位到下一个停靠站或车库，并支付干预的费用退还车费及支付赔偿。 价格为$ {}。"
+msgstr 干预会使列车的位置复位到下一个停靠站或车库，并支付干预的费用退还车费及支付赔偿。 价格为$ {}。"
 
 #v1.1.31
 msgctxt "train_intervention_dialog_title"
@@ -3644,7 +3904,7 @@ msgstr "没有足够的资金购买"
 #v1.1.31
 msgctxt "train_purchase_no_cash_desc"
 msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
-msgstr "没有足够的钱来购买火车。 选择更便宜的火车，更少的火车，更少的车厢或赚更多的钱。"
+msgstr "没有足够的钱来购买列车。 选择更便宜的列车，更少的列车，更少的车厢或赚更多的钱。"
 
 #v1.1.31
 msgctxt "train_sched_add"
@@ -3819,7 +4079,7 @@ msgstr "购买新列车"
 #v1.1.31
 msgctxt "traineditor_tooltip_list_mode"
 msgid "List trains and edit their details and schedule"
-msgstr "列出火车并编辑其详细信息和时刻表"
+msgstr "列出列车并编辑其详细信息和时刻表"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_sched_mode"
