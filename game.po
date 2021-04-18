@@ -1,4 +1,4 @@
-# ----------------------------------------------------------
+# -------2020-04-18-----------------------------------------
 # new strings
 
 #v1.1.72
@@ -159,7 +159,7 @@ msgstr "总人数"
 #v1.1.72
 msgctxt "rtstat_pax_transfer"
 msgid "Contains transfer pax"
-msgstr "车站换乘乘客"
+msgstr "换乘乘客人数"
 
 #v1.1.72
 msgctxt "rtstat_pax_with_destination"
@@ -174,7 +174,7 @@ msgstr "车站作为换乘站的乘客数"
 #v1.1.72
 msgctxt "rtstat_pax_with_origin"
 msgid "Pax with origin at"
-msgstr "起始站"
+msgstr "车站作为起始站的乘客数"
 
 #v1.1.72
 msgctxt "rtstat_sax_avg"
@@ -204,7 +204,7 @@ msgstr "--- 真实时间 ---"
 #v1.1.72
 msgctxt "switch_no_cash"
 msgid "Switch to unlimited"
-msgstr "切换至无限"
+msgstr "确认切换"
 
 #v1.1.72
 msgctxt "train_info_price"
@@ -229,7 +229,7 @@ msgstr "空白时刻表"
 #v1.1.72
 msgctxt "train_purchase_sched_simple"
 msgid "Run an existing line"
-msgstr "使用现有的时间线"
+msgstr "使用现有的线路"
 
 #v1.1.72
 msgctxt "unit_kmh"
