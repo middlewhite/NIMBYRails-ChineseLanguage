@@ -1,4 +1,7 @@
-# -------2020-04-18-----------------------------------------
+# -------2020-04-18----------------------------------------
+# ---------14-46-30----------------------------------------
+# 
+# ----------------------------------------------------------
 # new strings
 
 #v1.1.72
@@ -274,7 +277,7 @@ msgstr "克隆 {} 时刻表"
 
 
 # ----------------------------------------------------------
-# 1.1.58-
+# 1.1.58- new strings
 
 #v1.1.58
 msgctxt "confirm_delete_line"
@@ -304,22 +307,22 @@ msgstr "{}个 型号"
 #v1.1.58
 msgctxt "filter_high"
 msgid "High"
-msgstr "大"
+msgstr "最大"
 
 #v1.1.58
 msgctxt "filter_high_c"
 msgid "High:"
-msgstr "大:"
+msgstr "最大:"
 
 #v1.1.58
 msgctxt "filter_low"
 msgid "Low"
-msgstr "小"
+msgstr "最小"
 
 #v1.1.58
 msgctxt "filter_low_c"
 msgid "Low:"
-msgstr "小:"
+msgstr "最小:"
 
 #v1.1.58
 msgctxt "filter_max_pax"
@@ -394,7 +397,7 @@ msgstr "考虑最大单线乘坐"
 #v1.1.58
 msgctxt "lineeditor_pax_transfer_min_int"
 msgid "Considers stop min interval"
-msgstr "考虑最小停车次数"
+msgstr "考虑最小换乘次数"
 
 #v1.1.58
 msgctxt "lineeditor_tooltip_lock_all_stops"
@@ -614,237 +617,237 @@ msgstr "tag_electric"
 #v1.1.58
 msgctxt "tag_end_of_train"
 msgid "End of train"
-msgstr "Fin de tren"
+msgstr "tag_end_of_train"
 
 #v1.1.58
 msgctxt "tag_fantasy"
 msgid "Fantasy"
-msgstr "Fantasía"
+msgstr "tag_fantasy"
 
 #v1.1.58
 msgctxt "tag_filter_any"
 msgid "Any"
-msgstr "Cualquiera"
+msgstr "任何"
 
 #v1.1.58
 msgctxt "tag_filter_ignore"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "忽略"
 
 #v1.1.58
 msgctxt "tag_filter_n_tags"
 msgid "{} tags"
-msgstr "{} etiquetas"
+msgstr "{} tags"
 
 #v1.1.58
 msgctxt "tag_generator"
 msgid "Generator"
-msgstr "Generador"
+msgstr "tag_generator"
 
 #v1.1.58
 msgctxt "tag_heritage"
 msgid "Heritage"
-msgstr "Histórico"
+msgstr "tag_heritage"
 
 #v1.1.58
 msgctxt "tag_high_speed"
 msgid "High speed"
-msgstr "Alta velocidad"
+msgstr "tag_high_speed"
 
 #v1.1.58
 msgctxt "tag_hotel"
 msgid "Hotel"
-msgstr "Hotel"
+msgstr "tag_hotel"
 
 #v1.1.58
 msgctxt "tag_intercity"
 msgid "Intercity"
-msgstr "Intercity"
+msgstr "tag_intercity"
 
 #v1.1.58
 msgctxt "tag_light_rail"
 msgid "Light rail"
-msgstr "Ligero"
+msgstr "tag_light_rail"
 
 #v1.1.58
 msgctxt "tag_linear_induction"
 msgid "Linear induction"
-msgstr "Inducción lineal"
+msgstr "tag_linear_induction"
 
 #v1.1.58
 msgctxt "tag_locomotive"
 msgid "Locomotive"
-msgstr "Locomotora"
+msgstr "tag_locomotive"
 
 #v1.1.58
 msgctxt "tag_long_distance"
 msgid "Long distance"
-msgstr "Larga distancia"
+msgstr "tag_long_distance"
 
 #v1.1.58
 msgctxt "tag_lounge"
 msgid "Lounge"
-msgstr "Salón"
+msgstr "tag_lounge"
 
 #v1.1.58
 msgctxt "tag_maglev"
 msgid "Maglev"
-msgstr "Maglev"
+msgstr "tag_maglev"
 
 #v1.1.58
 msgctxt "tag_metro"
 msgid "Metro"
-msgstr "Metro"
+msgstr "tag_metro"
 
 #v1.1.58
 msgctxt "tag_minimum_gauge"
 msgid "Minimum gauge"
-msgstr "Ancho mínimo"
+msgstr "tag_minimum_gauge"
 
 #v1.1.58
 msgctxt "tag_monorail"
 msgid "Monorail"
-msgstr "Monorail"
+msgstr "tag_monorail"
 
 #v1.1.58
 msgctxt "tag_mu"
 msgid "Multiple unit"
-msgstr "Unidad de tren"
+msgstr "tag_mu"
 
 #v1.1.58
 msgctxt "tag_narrow"
 msgid "Narrow"
-msgstr "Estrecha"
+msgstr "tag_narrow"
 
 #v1.1.58
 msgctxt "tag_observation"
 msgid "Observation"
-msgstr "Mirador"
+msgstr "tag_observation"
 
 #v1.1.58
 msgctxt "tag_people_mover"
 msgid "People mover"
-msgstr "People mover"
+msgstr "tag_people_mover"
 
 #v1.1.58
 msgctxt "tag_private"
 msgid "Private"
-msgstr "Privado"
+msgstr "tag_private"
 
 #v1.1.58
 msgctxt "tag_prototype"
 msgid "Prototype"
-msgstr "Prototipo"
+msgstr "tag_prototype"
 
 #v1.1.58
 msgctxt "tag_push_pull"
 msgid "Push-pull"
-msgstr "Push-pull"
+msgstr "tag_push_pull"
 
 #v1.1.58
 msgctxt "tag_railbus"
 msgid "Railbus"
-msgstr "Railbus"
+msgstr "tag_railbus"
 
 #v1.1.58
 msgctxt "tag_regional"
 msgid "Regional"
-msgstr "Regional"
+msgstr "tag_regional"
 
 #v1.1.58
 msgctxt "tag_restaurant"
 msgid "Restaurant"
-msgstr "Restaurante"
+msgstr "tag_restaurant"
 
 #v1.1.58
 msgctxt "tag_shuttle"
 msgid "Shuttle"
-msgstr "Shuttle"
+msgstr "tag_shuttle"
 
 #v1.1.58
 msgctxt "tag_sitting"
 msgid "Sitting"
-msgstr "Plazas sentadas"
+msgstr "tag_sitting"
 
 #v1.1.58
 msgctxt "tag_sleeper"
 msgid "Sleeper"
-msgstr "Dormitorio"
+msgstr "tag_sleeper"
 
 #v1.1.58
 msgctxt "tag_standard"
 msgid "Standard"
-msgstr "Estándar"
+msgstr "tag_standard"
 
 #v1.1.58
 msgctxt "tag_standing"
 msgid "Standing"
-msgstr "Plazas de pie"
+msgstr "tag_standing"
 
 #v1.1.58
 msgctxt "tag_steam"
 msgid "Steam"
-msgstr "Vapor"
+msgstr "tag_steam"
 
 #v1.1.58
 msgctxt "tag_tender"
 msgid "Tender"
-msgstr "Ténder"
+msgstr "tag_tender"
 
 #v1.1.58
 msgctxt "tag_third_rail"
 msgid "Third rail"
-msgstr "Tercer raíl"
+msgstr "tag_third_rail"
 
 #v1.1.58
 msgctxt "tag_tilting"
 msgid "Tilting"
-msgstr "Pendular"
+msgstr "tag_tilting"
 
 #v1.1.58
 msgctxt "tag_tram"
 msgid "Tram"
-msgstr "Tram"
+msgstr "tag_tram"
 
 #v1.1.58
 msgctxt "tag_turbine"
 msgid "Turbine"
-msgstr "Turbina"
+msgstr "tag_turbine"
 
 #v1.1.58
 msgctxt "tag_tyres"
 msgid "Tyres"
-msgstr "Neumáticos"
+msgstr "tag_tyres"
 
 #v1.1.58
 msgctxt "tags_gauge"
 msgid "Gauge"
-msgstr "Ancho de vía"
+msgstr "tags_gauge"
 
 #v1.1.58
 msgctxt "tags_misc"
 msgid "Misc."
-msgstr "Misc."
+msgstr "tags_misc"
 
 #v1.1.58
 msgctxt "tags_power"
 msgid "Power"
-msgstr "Potencia"
+msgstr "tags_power"
 
 #v1.1.58
 msgctxt "tags_role"
 msgid "Role"
-msgstr "Rol"
+msgstr "tags_role"
 
 #v1.1.58
 msgctxt "tags_units"
 msgid "Units"
-msgstr "Unidades"
+msgstr "tags_units"
 
 #v1.1.58
 msgctxt "train_info_arrives"
 msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
-msgstr "预计在 {0} 后到达，已行驶 {1:.1f} km 总共 {2:.1f} km"
+msgstr "预计在 {0} 后到达，已行驶 {1:.1f} km / {2:.1f} km"
 
 #v1.1.58
 msgctxt "train_info_car_name"
@@ -869,7 +872,7 @@ msgstr "{0:.2f}m / {1:.2f}m"
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "已晚点 {0}，已行驶 {1:.1f} km 总共 {2:.1f} km"
+msgstr "已晚点 {0}，已行驶 {1:.1f} km / {2:.1f} km"
 
 #v1.1.58
 msgctxt "train_info_power"
