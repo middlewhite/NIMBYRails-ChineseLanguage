@@ -1,8 +1,13 @@
-# -------2020-04-18----------------------------------------
-# ---------14-46-30----------------------------------------
+# -------2020-05-31----------------------------------------
+# ---------09-16-30----------------------------------------
 # 
+
+
+
+
+
 # ----------------------------------------------------------
-# new strings
+# 1.1.72-new strings
 
 #v1.1.72
 msgctxt "accounting_km_post"
@@ -232,7 +237,7 @@ msgstr "空白时刻表"
 #v1.1.72
 msgctxt "train_purchase_sched_simple"
 msgid "Run an existing line"
-msgstr "使用现有的线路"
+msgstr "分配现有的线路"
 
 #v1.1.72
 msgctxt "unit_kmh"
@@ -908,11 +913,6 @@ msgctxt "transfers_to"
 msgid "Transfers to {}"
 msgstr "换乘 {}"
 
-
-
-# ----------------------------------------------------------
-# modified strings
-
 #v1.1.58
 msgctxt "editor_select_add_platform"
 msgid "Click platform letters in stations to add stops to the line"
@@ -933,19 +933,10 @@ msgctxt "train_info_dim_d"
 msgid "{0} units / {1:.2f}m / {2:.2f}m"
 msgstr "{0}节 编组 / {1:.2f}m / {2:.2f}m"
 
-
-
-
-
 #v1.1.58
 msgctxt "traineditor_select_all"
 msgid "Select all listed trains"
 msgstr "选择所有列出的列车"
-
-
-
-# ----------------------------------------------------------
-# unmodified strings
 
 #v1.1.31
 msgctxt "10_minutes"
@@ -2207,7 +2198,7 @@ msgstr "按字母顺序"
 #v1.1.37
 msgctxt "line_list_sort_pax_Compensation"
 msgid "Compensations"
-msgstr "补偿金"
+msgstr "赔偿"
 
 #v1.1.37
 msgctxt "line_list_sort_pax_board"
@@ -2677,7 +2668,7 @@ msgstr "本地"
 #v1.1.31
 msgctxt "mod_source_steamworks_ugc"
 msgid "Steamworks UGC"
-msgstr "Steamworks UGC"
+msgstr "Steam创意工坊用户原创"
 
 #v1.1.37
 msgctxt "mod_sub_all_not_installed"
