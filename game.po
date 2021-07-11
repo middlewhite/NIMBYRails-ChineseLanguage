@@ -1,5 +1,5 @@
 # -------2020-07-11----------------------------------------
-# ---------16-37-28----------------------------------------
+# ---------20-19-21----------------------------------------
 # 
 
 
@@ -284,7 +284,7 @@ msgstr "轨道: 取消蓝图"
 #v1.2.22
 msgctxt "key_info2"
 msgid "[Key: {}]"
-msgstr "[按键: {}]"
+msgstr "[快捷键: {}]"
 
 #v1.2.22
 msgctxt "lineeditor_auto_value"
@@ -324,7 +324,7 @@ msgstr "{0}, {1} km"
 #v1.2.22
 msgctxt "lineeditor_interval_time"
 msgid "Interval time (mm:ss):"
-msgstr "换乘时间 (mm:ss):"
+msgstr "换乘时间 (分:秒):"
 
 #v1.2.22
 msgctxt "lineeditor_interval_time_desc"
@@ -334,7 +334,7 @@ msgstr "列车停车时间将增加到此值以平均列车的到达时间."
 #v1.2.22
 msgctxt "lineeditor_interval_wait_at"
 msgid "Interval wait at:"
-msgstr "换乘等待在:"
+msgstr "间隔时间等待在:"
 
 #v1.2.22
 msgctxt "lineeditor_interval_wait_at_all_stops"
@@ -379,7 +379,7 @@ msgstr "该列车在轨道上运行的内部模拟将用于计算行程时间."
 #v1.2.22
 msgctxt "lineeditor_service_level"
 msgid "Service level:"
-msgstr "服务水平:"
+msgstr "服务状态:"
 
 #v1.2.22
 msgctxt "lineeditor_service_level_closed"
@@ -409,7 +409,7 @@ msgstr "停止 {0}: {1}"
 #v1.2.22
 msgctxt "mode_map_tracks_signals"
 msgid "Track reservations"
-msgstr 轨道预留"
+msgstr "轨道信号"
 
 #v1.2.22
 msgctxt "mvo_user_signals"
@@ -419,12 +419,12 @@ msgstr "信号"
 #v1.2.22
 msgctxt "new_key_tip"
 msgid "Press new key or backspace to clear"
-msgstr "按任意键或退格键清除"
+msgstr "绑定任意按键或按退格键清除"
 
 #v1.2.22
 msgctxt "options_keybinds"
 msgid "Keybinds"
-msgstr "绑定按键"
+msgstr "快捷键"
 
 #v1.2.22
 msgctxt "plat_auto_direction"
@@ -579,7 +579,7 @@ msgstr "车站类型"
 #v1.2.22
 msgctxt "stop_leg_full"
 msgid "{0}m in {1} at {2} km/h avg."
-msgstr "{0}m 共 {1} , {2} km/h 平均"
+msgstr "{0}m 平均耗时 {1} ,平均 {2} km/h"
 
 #v1.2.22
 msgctxt "stop_leg_l"
@@ -2224,22 +2224,22 @@ msgstr "确定"
 #v1.1.37
 msgctxt "editor_add"
 msgid "Append to tracks or create [N]ew ones"
-msgstr "创建或添加新的轨道 [N]"
+msgstr "创建或添加新的轨道"
 
 #v1.1.37
 msgctxt "editor_branch"
 msgid "Create new track [B]ranches"
-msgstr "创建新的轨道岔口 [B]"
+msgstr "创建新的轨道岔口"
 
 #v1.1.37
 msgctxt "editor_depot"
 msgid "Create new de[P]ot"
-msgstr "创建新的车库 [P]"
+msgstr "创建新的车库"
 
 #v1.1.37
 msgctxt "editor_move"
 msgid "[M]ove, delete and edit tracks"
-msgstr "移动、删除及编辑轨道 [M]"
+msgstr "移动、删除及编辑轨道"
 
 #v1.1.31
 msgctxt "editor_select_add_waypoint"
@@ -2254,7 +2254,7 @@ msgstr "点击地图上的车库以设置列车顺序"
 #v1.1.37
 msgctxt "editor_station"
 msgid "Create new s[T]ation platforms"
-msgstr "创建新的车站站台 [T]"
+msgstr "创建新的车站站台"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -3329,27 +3329,27 @@ msgstr "版本:"
 #v1.1.37
 msgctxt "mode_map_default"
 msgid "Plain map [Home]"
-msgstr "地图模式 [Home]"
+msgstr "地图模式"
 
 #v1.1.37
 msgctxt "mode_map_population"
 msgid "Population overlay [Home]"
-msgstr "人口指示器 [Home]"
+msgstr "人口指示器"
 
 #v1.1.37
 msgctxt "mode_map_tracks"
 msgid "Plain tracks [End]"
-msgstr "轨道指示器 [End]"
+msgstr "轨道指示器"
 
 #v1.1.37
 msgctxt "mode_map_tracks_lines"
 msgid "Lines overlay [End]"
-msgstr "线路指示器 [End]"
+msgstr "线路指示器"
 
 #v1.1.37
 msgctxt "mode_map_tracks_speed"
 msgid "Speed overlay [End]"
-msgstr "速度指示器 [End]"
+msgstr "速度指示器"
 
 #v1.1.31
 msgctxt "mods"
