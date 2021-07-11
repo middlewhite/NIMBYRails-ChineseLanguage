@@ -2,7 +2,7 @@
 schema=1
 name=SChinese
 author=middlewhite
-version=1.1.72-1.1.0
+version=1.2.22-1.2.0
 
 [Language]
 code_iso_639_2=zho

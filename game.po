@@ -1,9 +1,605 @@
-# -------2020-05-31----------------------------------------
-# ---------09-16-30----------------------------------------
+# -------2020-07-11----------------------------------------
+# ---------16-37-28----------------------------------------
 # 
 
 
+# ----------------------------------------------------------
+# 1.2.22-new strings
 
+#v1.2.22
+msgctxt "apply"
+msgid "Apply"
+msgstr "应用"
+
+#v1.2.22
+msgctxt "constraint_direction"
+msgid "Direction:"
+msgstr "方向:"
+
+#v1.2.22
+msgctxt "constraint_flip"
+msgid "Flip"
+msgstr "翻转"
+
+#v1.2.22
+msgctxt "constraint_offset"
+msgid "Offset (m):"
+msgstr "偏移量(米):"
+
+#v1.2.22
+msgctxt "constraint_pick"
+msgid "Pick parent"
+msgstr "选择父控制点"
+
+#v1.2.22
+msgctxt "constraint_remove"
+msgid "Remove constraint"
+msgstr "移除连接"
+
+#v1.2.22
+msgctxt "constraint_t"
+msgid "Segment t (0 to 1):"
+msgstr "车段 (0 to 1):"
+
+#v1.2.22
+msgctxt "constraint_type"
+msgid "Lock control point:"
+msgstr "锁定控制点:"
+
+#v1.2.22
+msgctxt "constraint_type_control_point"
+msgid "To a control point"
+msgstr "到检查点"
+
+#v1.2.22
+msgctxt "constraint_type_t_tangent"
+msgid "To a track point"
+msgstr "到列车控制点"
+
+#v1.2.22
+msgctxt "constraints_editor"
+msgid "Track constraints"
+msgstr "限制列车"
+
+#v1.2.22
+msgctxt "editor_edit_signal"
+msgid "Move, delete and edit signals"
+msgstr "移动、删除和编辑信号"
+
+#v1.2.22
+msgctxt "editor_new_signal"
+msgid "Create new signals"
+msgstr "创建新的信号"
+
+#v1.2.22
+msgctxt "editor_pick_constraint_parent_esc"
+msgid "Esc to cancel picking"
+msgstr "按下 Esc 以取消选择"
+
+#v1.2.22
+msgctxt "editor_pick_constraint_parent_left"
+msgid "Click a control point to make it the constraint parent"
+msgstr "单击控制点以使其变为父控制点"
+
+#v1.2.22
+msgctxt "editor_tip_cont_alt"
+msgid "Alt to toggle the parallel track side"
+msgstr "按住 Alt 以切换平行轨道侧"
+
+#v1.2.22
+msgctxt "editor_tip_create_rebp2"
+msgid "{} to change selected built track(s) into blueprint track(s)"
+msgstr "将 {} 个选定的轨道转变为蓝图轨道"
+
+#v1.2.22
+msgctxt "editor_tip_move_branch_draw"
+msgid "Drag the branch control point near any branchable track to change its position"
+msgstr "拖动任何可分支轨道附近的分支控制点以更改其位置"
+
+#v1.2.22
+msgctxt "editor_tip_new_signal_esc"
+msgid "Esc to go to signal edit mode"
+msgstr "按下 Esc 以进入信号编辑模式"
+
+#v1.2.22
+msgctxt "editor_tip_new_signal_left"
+msgid "Left click to create signal"
+msgstr "左键单击以创建信号"
+
+#v1.2.22
+msgctxt "editor_tip_new_signal_shift"
+msgid "Shift to change signal facing direction"
+msgstr "按下 Shift 以改变信号方向"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_del"
+msgid "Del to delete selected signals"
+msgstr "按下 Del 以删除选择的信号"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_drag"
+msgid "Drag to move selected signal"
+msgstr "按住拖动以移动选择的信号"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_esc"
+msgid "Esc to go to track edit mode"
+msgstr "按下 Esc 以进入轨道编辑模式"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_left"
+msgid "Left click to select a signal"
+msgstr "左键单击以选择信号"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_move"
+msgid "Release left button to stop moving the signal"
+msgstr "松开左键结束移动信号"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_sel_esc"
+msgid "Esc to clear selection"
+msgstr "按下 Esc 以清除选择"
+
+#v1.2.22
+msgctxt "editor_tip_sel_signal_sleft"
+msgid "Shift left click to select additional signals"
+msgstr "Shift左键单击以选择其他信号"
+
+#v1.2.22
+msgctxt "editor_warn_closed"
+msgid "Remember to set the service level to Full to allow pax to use this line."
+msgstr "请记住将服务级别设置为 Full 以允许乘客使用此线路."
+
+#v1.2.22
+msgctxt "game_restart_req"
+msgid "Game restart is required"
+msgstr "需要重启游戏"
+
+#v1.2.22
+msgctxt "info_mode_tp"
+msgid "Info"
+msgstr "信息"
+
+#v1.2.22
+msgctxt "kb_map_down"
+msgid "Map: scroll down"
+msgstr "地图: 向下滚动"
+
+#v1.2.22
+msgctxt "kb_map_left"
+msgid "Map: scroll left"
+msgstr "地图: 向左滚动"
+
+#v1.2.22
+msgctxt "kb_map_right"
+msgid "Map: scroll right"
+msgstr "地图: 向右滚动"
+
+#v1.2.22
+msgctxt "kb_map_toggle_layer"
+msgid "Map: toggle layers"
+msgstr "地图: 切换图层"
+
+#v1.2.22
+msgctxt "kb_map_toggle_tracks"
+msgid "Map: track mode"
+msgstr "地图: 追踪模式"
+
+#v1.2.22
+msgctxt "kb_map_up"
+msgid "Map: scroll up"
+msgstr "地图: 向上滚动"
+
+#v1.2.22
+msgctxt "kb_map_zoom_in"
+msgid "Map: zoom in"
+msgstr "地图: 放大"
+
+#v1.2.22
+msgctxt "kb_map_zoom_out"
+msgid "Map: zoom out"
+msgstr "地图: 缩小"
+
+#v1.2.22
+msgctxt "kb_mode_info"
+msgid "Mode: info"
+msgstr "模式: 信息"
+
+#v1.2.22
+msgctxt "kb_mode_lines"
+msgid "Mode: lines"
+msgstr "模式: 线路"
+
+#v1.2.22
+msgctxt "kb_mode_tracks"
+msgid "Mode: tracks"
+msgstr "模式: 轨道"
+
+#v1.2.22
+msgctxt "kb_mode_trains"
+msgid "Mode: trains"
+msgstr "模式: 列车"
+
+#v1.2.22
+msgctxt "kb_speed_down"
+msgid "Speed down"
+msgstr "降速
+
+#v1.2.22
+msgctxt "kb_speed_toggle"
+msgid "Pause"
+msgstr "暂停"
+
+#v1.2.22
+msgctxt "kb_speed_up"
+msgid "Speed up"
+msgstr "加速"
+
+#v1.2.22
+msgctxt "kb_track_2x"
+msgid "Tracks: double tracks"
+msgstr "轨道: 双轨"
+
+#v1.2.22
+msgctxt "kb_track_branch"
+msgid "Tracks: new branch"
+msgstr "轨道: 新的分岔"
+
+#v1.2.22
+msgctxt "kb_track_depot"
+msgid "Tracks: new depot"
+msgstr "轨道: 新的车库"
+
+#v1.2.22
+msgctxt "kb_track_move"
+msgid "Tracks: selection"
+msgstr "轨道: 选择"
+
+#v1.2.22
+msgctxt "kb_track_new"
+msgid "Tracks: new tracks"
+msgstr "轨道: 新的轨道"
+
+#v1.2.22
+msgctxt "kb_track_new_signal"
+msgid "Tracks: new signal"
+msgstr "轨道: 新的信号"
+
+#v1.2.22
+msgctxt "kb_track_sel_signal"
+msgid "Tracks: select signal"
+msgstr "轨道: 新的信号"
+
+#v1.2.22
+msgctxt "kb_track_station"
+msgid "Tracks: new station"
+msgstr "轨道: 新的车站"
+
+#v1.2.22
+msgctxt "kb_tracks_unbp"
+msgid "Tracks: unblueprint"
+msgstr "轨道: 取消蓝图"
+
+#v1.2.22
+msgctxt "key_info2"
+msgid "[Key: {}]"
+msgstr "[按键: {}]"
+
+#v1.2.22
+msgctxt "lineeditor_auto_value"
+msgid "Auto"
+msgstr "自动"
+
+#v1.2.22
+msgctxt "lineeditor_basics"
+msgid "Basics"
+msgstr "基本"
+
+#v1.2.22
+msgctxt "lineeditor_cruise_speed"
+msgid "Cruise speed (km/h):"
+msgstr "巡航速度 (km/h):"
+
+#v1.2.22
+msgctxt "lineeditor_cruise_speed_desc"
+msgid "Trains will try to accelerate to and keep this speed while traveling between stops. They may speed up if they are late."
+msgstr "在停靠站之间行驶时，火车将尝试加速并保持此速度。 如果他们迟到，他们可能会加速."
+
+#v1.2.22
+msgctxt "lineeditor_default_timings"
+msgid "Default timings"
+msgstr "默认时间"
+
+#v1.2.22
+msgctxt "lineeditor_header_full"
+msgid "{0}, {1} km, {2}, {3} km/h avg."
+msgstr "{0}, {1} km, {2}, {3} km/h 平均"
+
+#v1.2.22
+msgctxt "lineeditor_header_l"
+msgid "{0}, {1} km"
+msgstr "{0}, {1} km"
+
+#v1.2.22
+msgctxt "lineeditor_interval_time"
+msgid "Interval time (mm:ss):"
+msgstr "换乘时间 (mm:ss):"
+
+#v1.2.22
+msgctxt "lineeditor_interval_time_desc"
+msgid "Train stop times will be increased up to this value to evenly space their arrival times."
+msgstr "列车停车时间将增加到此值以平均列车的到达时间."
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at"
+msgid "Interval wait at:"
+msgstr "换乘等待在:"
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_all_stops"
+msgid "All stops"
+msgstr "所有停车站"
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_desc"
+msgid "Increased stop times due to interval waiting will only be applied at these stops."
+msgstr "由于间隔等待而增加的停靠时间将仅适用于这些停靠点."
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_first_stop"
+msgid "First stop"
+msgstr "始发站"
+
+#v1.2.22
+msgctxt "lineeditor_interval_wait_at_manual"
+msgid "Manual"
+msgstr "手动"
+
+#v1.2.22
+msgctxt "lineeditor_min_stop_time"
+msgid "Min. stop time (mm:ss):"
+msgstr "最小停车时间. (分:秒):"
+
+#v1.2.22
+msgctxt "lineeditor_min_stop_time_desc"
+msgid "Trains will wait at least this long on line stops. They might wait longer if pax are still leaving or boarding."
+msgstr "列车将在线路停靠站至少等待这些时间。 如果乘客仍在上下车，他们可能会等待更长时间."
+
+#v1.2.22
+msgctxt "lineeditor_reference_train"
+msgid "Reference train:"
+msgstr "参考列车:"
+
+#v1.2.22
+msgctxt "lineeditor_reference_train_desc"
+msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
+msgstr "该列车在轨道上运行的内部模拟将用于计算行程时间."
+
+#v1.2.22
+msgctxt "lineeditor_service_level"
+msgid "Service level:"
+msgstr "服务水平:"
+
+#v1.2.22
+msgctxt "lineeditor_service_level_closed"
+msgid "Closed"
+msgstr "关闭"
+
+#v1.2.22
+msgctxt "lineeditor_service_level_full"
+msgid "Full"
+msgstr "开启"
+
+#v1.2.22
+msgctxt "lineeditor_service_level_only_trains"
+msgid "Empty trains"
+msgstr "空车运行"
+
+#v1.2.22
+msgctxt "lineeditor_stop_interval_wait_here"
+msgid "Interval wait in this stop"
+msgstr "在本站换乘等待"
+
+#v1.2.22
+msgctxt "lineeditor_stop_panel_editor"
+msgid "Stop {0}: {1}"
+msgstr "停止 {0}: {1}"
+
+#v1.2.22
+msgctxt "mode_map_tracks_signals"
+msgid "Track reservations"
+msgstr 轨道预留"
+
+#v1.2.22
+msgctxt "mvo_user_signals"
+msgid "Signals"
+msgstr "信号"
+
+#v1.2.22
+msgctxt "new_key_tip"
+msgid "Press new key or backspace to clear"
+msgstr "按任意键或退格键清除"
+
+#v1.2.22
+msgctxt "options_keybinds"
+msgid "Keybinds"
+msgstr "绑定按键"
+
+#v1.2.22
+msgctxt "plat_auto_direction"
+msgid "Auto append direction signals"
+msgstr "自动附加方向信号"
+
+#v1.2.22
+msgctxt "plat_auto_direction_lr"
+msgid "Drive on left for double platforms"
+msgstr "双平台靠左行驶"
+
+#v1.2.22
+msgctxt "plat_auto_scissors"
+msgid "Auto append scissor intersections and path signals for double platforms"
+msgstr "双平台的自动附加交叉轨和路径信号"
+
+#v1.2.22
+msgctxt "plat_auto_stops"
+msgid "Auto append platform stop point signals"
+msgstr "自动附加车站停止点信号"
+
+#v1.2.22
+msgctxt "signal_dir_m1"
+msgid "-1"
+msgstr "-1"
+
+#v1.2.22
+msgctxt "signal_dir_p1"
+msgid "+1"
+msgstr "+1"
+
+#v1.2.22
+msgctxt "signal_direction"
+msgid "Direction:"
+msgstr "方向:"
+
+#v1.2.22
+msgctxt "signal_editor_title_edit"
+msgid "Edit signal"
+msgstr "编辑信号"
+
+#v1.2.22
+msgctxt "signal_editor_title_new"
+msgid "New signal"
+msgstr "新建信号"
+
+#v1.2.22
+msgctxt "signal_flip"
+msgid "Flip"
+msgstr "翻转"
+
+#v1.2.22
+msgctxt "signal_kind_block_balise"
+msgid "Block balise"
+msgstr "Block块信标"
+
+#v1.2.22
+msgctxt "signal_kind_name_oneway"
+msgid "One way"
+msgstr "单向"
+
+#v1.2.22
+msgctxt "signal_kind_name_platform_stop"
+msgid "Platform train stop point"
+msgstr "站台列车停靠点"
+
+#v1.2.22
+msgctxt "signal_kind_path"
+msgid "Path signal"
+msgstr "路径信号"
+
+#v1.2.22
+msgctxt "signal_kind_simple_block"
+msgid "Simple block"
+msgstr "单个Block"
+
+#v1.2.22
+msgctxt "signal_limits_block"
+msgid "Bounds other signals:"
+msgstr "绑定其他信号:"
+
+#v1.2.22
+msgctxt "signal_limits_block_always"
+msgid "Always"
+msgstr "始终"
+
+#v1.2.22
+msgctxt "signal_limits_block_same"
+msgid "Only for same direction"
+msgstr "只针对同一个方向"
+
+#v1.2.22
+msgctxt "signal_long_check"
+msgid "Check path up to:"
+msgstr "检查路径到:"
+
+#v1.2.22
+msgctxt "signal_side"
+msgid "Side (cosmetic):"
+msgstr "侧面 (装饰):"
+
+#v1.2.22
+msgctxt "signal_side_0"
+msgid "0"
+msgstr "0"
+
+#v1.2.22
+msgctxt "signal_side_m1"
+msgid "-1"
+msgstr "-1"
+
+#v1.2.22
+msgctxt "signal_side_p1"
+msgid "+1"
+msgstr "+1"
+
+#v1.2.22
+msgctxt "signal_stop_check_only_signals"
+msgid "Only signals"
+msgstr "仅信号"
+
+#v1.2.22
+msgctxt "signal_stop_check_signals_stops"
+msgid "Signals and train stop"
+msgstr "信号及列车停止"
+
+#v1.2.22
+msgctxt "signal_toggle"
+msgid "Toggle"
+msgstr "切换"
+
+#v1.2.22
+msgctxt "signal_type"
+msgid "Type:"
+msgstr "类型:"
+
+#v1.2.22
+msgctxt "speed_down"
+msgid "Speed down"
+msgstr "降速"
+
+#v1.2.22
+msgctxt "speed_up"
+msgid "Speed up"
+msgstr "提速"
+
+#v1.2.22
+msgctxt "station_editor"
+msgid "Station properties"
+msgstr "车站类型"
+
+#v1.2.22
+msgctxt "stop_leg_full"
+msgid "{0}m in {1} at {2} km/h avg."
+msgstr "{0}m 共 {1} , {2} km/h 平均"
+
+#v1.2.22
+msgctxt "stop_leg_l"
+msgid "{0}m"
+msgstr "{0}m"
+
+#v1.2.22
+msgctxt "train_info_status_collision"
+msgid "Collision"
+msgstr "碰撞"
+
+#v1.2.22
+msgctxt "twoex_mode"
+msgid "Double track mode"
+msgstr "双轨模式"
+
+#v1.2.22
+msgctxt "user_signal_light_cones"
+msgid "Signal light cones"
+msgstr "信号灯锥"
 
 
 # ----------------------------------------------------------
