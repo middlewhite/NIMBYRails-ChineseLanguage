@@ -5106,3 +5106,194 @@ msgstr "您的协议与服务器不匹配，请确保您使用的版本与服务
 msgctxt "wrong_schema_mod"
 msgid "This mod data is enabled in the current game, but its installed files require a newer game version. Update the game."
 msgstr "此mod已在当前游戏启用，但需要更新的游戏版本。请更新您的游戏。"
+
+# ----------------------------------------------------------
+# 轨道翻译
+
+msgctxt "waw_track_hs_1_name"
+msgid "High speed"
+msgstr "高速轨道"
+
+msgctxt "waw_track_tram_1_name"
+msgid "Tram"
+msgstr "有轨电车轨道"
+
+msgctxt "waw_track_mid_1_name"
+msgid "Medium speed"
+msgstr "中速轨道"
+
+msgctxt "anarchy_track_1_name"
+msgid "Track Anarchy"
+msgstr "無敵軌道"
+
+msgctxt "sea_lane_loc"
+msgid "Sea Route Markers"
+msgstr "海運航線標記"
+
+msgctxt "China_Ballasted_80_name"
+msgid "China Ballasted 80km/h"
+msgstr "中国有砟铁路 80 km/h"
+
+msgctxt "China_Ballasted_120_name"
+msgid "China Ballasted 120km/h"
+msgstr "中国有砟铁路 120 km/h"
+
+msgctxt "China_Ballasted_160_name"
+msgid "China Ballasted 160km/h"
+msgstr "中国有砟铁路 160 km/h"
+
+msgctxt "China_Ballasted_200_name"
+msgid "China Ballasted 200km/h"
+msgstr "中国有砟铁路 200 km/h"
+
+msgctxt "China_Ballasted_250_name"
+msgid "China Ballasted 250km/h"
+msgstr "中国有砟铁路 250 km/h"
+
+msgctxt "PlatformOrdinary_name"
+msgid "PlatformOrdinary"
+msgstr "普速站台无模块"
+
+msgctxt "MPlatformOrdinary_name"
+msgid "MPlatformOrdinary"
+msgstr "普速站台有模块"
+
+msgctxt "Over-PlatformOrdinary_name"
+msgid "Over-PlatformOrdinary"
+msgstr "普速站台终止栅栏"
+
+msgctxt "PlatformHighSpeed_name"
+msgid "PlatformHighSpeed"
+msgstr "高速站台无模块"
+
+msgctxt "MPlatformHighSpeed_name"
+msgid "MPlatformHighSpeed"
+msgstr "高速站台有模块"
+
+msgctxt "TrainStop_name"
+msgid "TrainStop"
+msgstr "普速线路车档"
+
+msgctxt "StationBuilding_name"
+msgid "StationBuilding"
+msgstr "站房"
+
+msgctxt "ChinaTransfer"
+msgid "ChinaTransfer"
+msgstr "中国铁路换乘站台"
+
+msgctxt "ChinaRoad"
+msgid "ChinaRoad"
+msgstr "中国道路"
+
+msgctxt "AirportRoad"
+msgid "AirportRoad"
+msgstr "机场滑行道"
+
+msgctxt "lrt_track_1_name"
+msgid "Light Rail (Ballasted)"
+msgstr "輕軌軌道（有砟）"
+
+msgctxt "lrt_track_2_name"
+msgid "Light Rail (Low-profile)"
+msgstr "輕軌軌道（低調）"
+
+msgctxt "Metro_Ballastless_v1_name"
+msgid "Metro Ballastless v1"
+msgstr "中国地铁无砟 V1"
+
+msgctxt "750V_3L_Ballastless_name"
+msgid "750V 3L Ballastless"
+msgstr "750V 无砟三轨 左"
+
+msgctxt "750V_3R_Ballastless"
+msgid "750V 3R Ballastless"
+msgstr "750V 无砟三轨 右"
+
+msgctxt "1500V_3R_Ballastless_V1"
+msgid "1500V 3R Ballastless V1"
+msgstr "1500V 无砟三轨 右 V1"
+
+msgctxt "1500V_3L_Ballastless_V1"
+msgid "1500V 3L Ballastless V1"
+msgstr "1500V 无砟三轨 左 V1"
+
+msgctxt "1500V_3R_Ballastless_V2"
+msgid "1500V 3R Ballastless V2"
+msgstr "1500V 无砟三轨 右 V2"
+
+msgctxt "1500V_3L_Ballastless_V2"
+msgid "1500V 3L Ballastless V2"
+msgstr "1500V 无砟三轨 左 V2"
+
+msgctxt "1500V_3R_Ballastless_A"
+msgid "1500V 3R Ballastless A"
+msgstr "1500V 无砟三轨A车右"
+
+msgctxt "1500V_3L_Ballastless_A"
+msgid "1500V 3L Ballastless A"
+msgstr "1500V 无砟三轨A车左"
+
+msgctxt "Metro_Ballastless_v2"
+msgid "Metro Ballastless v2"
+msgstr "中国地铁无砟 V2"
+
+msgctxt "CRTS II_slab_420_name"
+msgid "CRTS II_slab_420"
+msgstr "CRTS II 无砟轨道 420"
+
+msgctxt "CRTS II_slab_380_name"
+msgid "CRTS II_slab_380"
+msgstr "CRTS II 无砟轨道 380"
+
+msgctxt "CRTS II_slab_350_name"
+msgid CRTS II_slab_350""
+msgstr "CRTS II 无砟轨道 350"
+
+msgctxt "CRTS II_slab_310_name"
+msgid "CRTS II_slab_310"
+msgstr "CRTS II 无砟轨道 310"
+
+msgctxt "CRTS III_350_name"
+msgid "CRTS III_350"
+msgstr "CRTS III 无砟轨道 350"
+
+msgctxt "CRTS III_310_name"
+msgid "CRTS III_310"
+msgstr "CRTS III 无砟轨道 350"
+
+msgctxt "CRTS III_250_name"
+msgid "CRTS III_250"
+msgstr "CRTS III 无砟轨道 250"
+
+msgctxt "CRTS II_double block_350_name"
+msgid "CRTS II_DBL_350"
+msgstr "CRTS II DBL 350"
+
+msgctxt "ChinaGround-Concrete"
+msgid "ChinaGround-Concrete"
+msgstr "中国地面 - 混凝土"
+
+msgctxt "ChinaGround-Land"
+msgid "ChinaGround-Land"
+msgstr "中国地面 - 泥土"
+
+msgctxt "ChinaGround-GrassLand"
+msgid "ChinaGround-GrassLand"
+msgstr "中国地面 - 草地"
+
+msgctxt "ChinaGround-IceLand"
+msgid "ChinaGround-IceLand"
+msgstr "中国地面 - 雪地"
+
+msgctxt "ChinaGround-DryLand"
+msgid "ChinaGround-DryLand"
+msgstr "中国地面 - 旱地"
+
+msgctxt "ChinaGround-Desert"
+msgid "ChinaGround-Desert"
+msgstr "中国地面 - 沙漠"
+
+msgctxt "ChinaGround-Tree"
+msgid "ChinaGround-Tree"
+msgstr "中国地面 - 树"
