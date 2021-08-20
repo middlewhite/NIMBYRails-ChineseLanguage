@@ -1,5 +1,5 @@
-# -------2021-08-16----------------------------------------
-# ---------18-48-12----------------------------------------
+# -------2021-08-20----------------------------------------
+# ---------13-26-20----------------------------------------
 # 
 
 
@@ -89,7 +89,7 @@ msgstr "双站台靠左行驶"
 #v1.2.29
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "双站台自动添加交叉点及路径信号"
+msgstr "双站台自动添加交叉点及路径信号灯"
 
 #v1.2.29
 msgctxt "teo.plat_auto_stops"
@@ -645,7 +645,7 @@ msgstr "双平台靠左行驶"
 #v1.2.22
 msgctxt "plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "双平台的自动附加交叉轨和路径信号"
+msgstr "双平台的自动附加交叉轨和路径信号灯"
 
 #v1.2.22
 msgctxt "plat_auto_stops"
@@ -685,27 +685,27 @@ msgstr "翻转"
 #v1.2.22
 msgctxt "signal_kind_block_balise"
 msgid "Block balise"
-msgstr "Block块信标"
+msgstr "闭塞边界"
 
 #v1.2.22
 msgctxt "signal_kind_name_oneway"
 msgid "One way"
-msgstr "单向"
+msgstr "单向标志"
 
 #v1.2.22
 msgctxt "signal_kind_name_platform_stop"
 msgid "Platform train stop point"
-msgstr "站台列车停靠点"
+msgstr "列车停止标志"
 
 #v1.2.22
 msgctxt "signal_kind_path"
 msgid "Path signal"
-msgstr "路径信号"
+msgstr "路径信号灯"
 
 #v1.2.22
 msgctxt "signal_kind_simple_block"
 msgid "Simple block"
-msgstr "单个Block"
+msgstr "闭塞信号灯"
 
 #v1.2.22
 msgctxt "signal_limits_block"
