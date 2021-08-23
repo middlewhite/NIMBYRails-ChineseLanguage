@@ -189,17 +189,17 @@ msgstr "使用中的模组"
 #v1.2.29
 msgctxt "waw_track_hs_1_name"
 msgid "High speed"
-msgstr "快速"
+msgstr "快速轨道"
 
 #v1.2.29
 msgctxt "waw_track_mid_1_name"
 msgid "Medium speed"
-msgstr "中速"
+msgstr "中速轨道"
 
 #v1.2.29
 msgctxt "waw_track_tram_1_name"
 msgid "Tram"
-msgstr "电车"
+msgstr "电车轨道"
 
 # ----------------------------------------------------------
 # 1.2.29-modified strings
