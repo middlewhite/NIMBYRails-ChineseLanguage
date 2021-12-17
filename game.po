@@ -1,6 +1,277 @@
-# -------2021-08-20----------------------------------------
-# ---------13-26-20----------------------------------------
+# -------2021-12-17----------------------------------------
+# ---------17-25-26----------------------------------------
 # 
+
+
+# ----------------------------------------------------------
+# 1.3.13-new strings
+
+#v1.3.13
+msgctxt "acc_export_desc"
+msgid "Accounting data has been exported to {}"
+msgstr "经济数据已导出到 {}"
+
+#v1.3.13
+msgctxt "acc_export_title"
+msgid "Exported accounting data"
+msgstr "经济数据已导出"
+
+#v1.3.13
+msgctxt "alert_after"
+msgid "After:"
+msgstr "之后:"
+
+#v1.3.13
+msgctxt "alert_on"
+msgid "Alert on:"
+msgstr "提醒:"
+
+#v1.3.13
+msgctxt "autoexport_config_name"
+msgid "Autoexport accounting:"
+msgstr "自动导出经济数据："
+
+#v1.3.13
+msgctxt "autoexport_config_value"
+msgid "Enabled"
+msgstr "启用"
+
+#v1.3.13
+msgctxt "autoexporting"
+msgid "Autoexporting..."
+msgstr "自动导出中......"
+
+#v1.3.13
+msgctxt "cat_track_gauge"
+msgid "Track gauge"
+msgstr "轨距"
+
+#v1.3.13
+msgctxt "cat_train_misc"
+msgid "Train miscellany"
+msgstr "列车杂项"
+
+#v1.3.13
+msgctxt "cat_train_power"
+msgid "Train power"
+msgstr "列车功率"
+
+#v1.3.13
+msgctxt "cat_train_role"
+msgid "Train role"
+msgstr "列车类型"
+
+#v1.3.13
+msgctxt "cat_train_unit"
+msgid "Train unit"
+msgstr "列车单位"
+
+#v1.3.13
+msgctxt "charts_title"
+msgid "Charts"
+msgstr "图表"
+
+#v1.3.13
+msgctxt "color"
+msgid "Color:"
+msgstr "颜色:"
+
+#v1.3.13
+msgctxt "line_list_group_all"
+msgid "Group by: All lines"
+msgstr "分组依据：所有线路"
+
+#v1.3.13
+msgctxt "line_list_group_no_tags"
+msgid "Group by: Untagged"
+msgstr "分组依据：未标记"
+
+#v1.3.13
+msgctxt "line_list_group_tags"
+msgid "Group by: Tags"
+msgstr "分组依据：标签"
+
+#v1.3.13
+msgctxt "lineeditor_tags"
+msgid "Tags:"
+msgstr "标签:"
+
+#v1.3.13
+msgctxt "loader_stations_n"
+msgid "Validating stations, {} to go"
+msgstr "验证车站中，还剩 {} "
+
+#v1.3.13
+msgctxt "minutes"
+msgid "minutes"
+msgstr "分钟"
+
+#v1.3.13
+msgctxt "mode_map_layer_regions"
+msgid "Regions layer"
+msgstr "行政区划视图"
+
+#v1.3.13
+msgctxt "name"
+msgid "Name:"
+msgstr "名字:"
+
+#v1.3.13
+msgctxt "option_company_acc_export"
+msgid "Export accounting data"
+msgstr "导出经济数据"
+
+#v1.3.13
+msgctxt "parent"
+msgid "Parent:"
+msgstr "父项:"
+
+#v1.3.13
+msgctxt "plots_button_tp"
+msgid "Open charts window"
+msgstr "打开图表窗口"
+
+#v1.3.13
+msgctxt "right_bar_tags"
+msgid "Tags"
+msgstr "标签"
+
+#v1.3.13
+msgctxt "signal_alert_opt_custom"
+msgid "Custom wait time"
+msgstr "自定义等待时间"
+
+#v1.3.13
+msgctxt "signal_alert_opt_default"
+msgid "Same wait time as global option"
+msgstr "与全局选项相同的等待时间"
+
+#v1.3.13
+msgctxt "signal_alert_opts"
+msgid "Alert on:"
+msgstr "警报:"
+
+#v1.3.13
+msgctxt "signal_filter_applies"
+msgid "Applies to all trains"
+msgstr "适用于所有列车"
+
+#v1.3.13
+msgctxt "signal_filter_except"
+msgid "Except:"
+msgstr "例外:"
+
+#v1.3.13
+msgctxt "signal_filter_ignored"
+msgid "Ignored by all trains"
+msgstr "被所有列车忽略"
+
+#v1.3.13
+msgctxt "signal_filter_label"
+msgid "By default:"
+msgstr "默认情况下："
+
+#v1.3.13
+msgctxt "signal_filter_none"
+msgid "<No exceptions>"
+msgstr "<没有例外>"
+
+#v1.3.13
+msgctxt "signal_filter_op_or"
+msgid "OR"
+msgstr "或"
+
+#v1.3.13
+msgctxt "signal_kind_name_noway"
+msgid "No way"
+msgstr "无法通行"
+
+#v1.3.13
+msgctxt "signal_warn_max_length"
+msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr "该信号区间太长。 在块中引入更多信号，如 balises，以使其更短。"
+
+#v1.3.13
+msgctxt "signal_warn_too_close"
+msgid "Too close"
+msgstr "太接近了"
+
+#v1.3.13
+msgctxt "tag_del"
+msgid "Delete tag"
+msgstr "删除标签"
+
+#v1.3.13
+msgctxt "tag_info_builtin"
+msgid "Built-in tag"
+msgstr "内置标签"
+
+#v1.3.13
+msgctxt "tag_info_def_name"
+msgid "New tag"
+msgstr "新标签"
+
+#v1.3.13
+msgctxt "tag_info_mp"
+msgid "Cannot edit in multiplayer"
+msgstr "无法在多人游戏中编辑"
+
+#v1.3.13
+msgctxt "tag_info_top_level"
+msgid "<Top level>"
+msgstr "<顶级>"
+
+#v1.3.13
+msgctxt "tag_new"
+msgid "New tag"
+msgstr "新标签"
+
+#v1.3.13
+msgctxt "tags_empty"
+msgid "<No tags>"
+msgstr "<无标签>"
+
+#v1.3.13
+msgctxt "train_alert_banner"
+msgid "{} ({})\n{}\nSince: {} UTC{}"
+msgstr "{} ({})\n{}\n自: {} UTC{}"
+
+#v1.3.13
+msgctxt "train_alert_center_train"
+msgid "Go to train"
+msgstr "火车视角"
+
+#v1.3.13
+msgctxt "train_alert_line_banner"
+msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
+msgstr "{} ({} / {})\n{}\n自: {} UTC{}"
+
+#v1.3.13
+msgctxt "train_info_status_busy_track"
+msgid "Track is occupied or reserved"
+msgstr "轨道被占用或保留"
+
+#v1.3.13
+msgctxt "train_info_status_line_closed"
+msgid "Line is closed"
+msgstr "线路已关闭"
+
+#v1.3.13
+msgctxt "train_info_status_signal_wait"
+msgid "Waiting at signal"
+msgstr "等待信号"
+
+#v1.3.13
+msgctxt "train_list_filter_by_line_tags"
+msgid "Group by line tags"
+msgstr "按线路标签分组"
+
+#v1.3.13
+msgctxt "train_list_filter_tags"
+msgid "Group by tags"
+msgstr "按标签分组"
+
+
 
 
 # ----------------------------------------------------------
@@ -2992,35 +3263,35 @@ msgctxt "line_error_no_path_to_start"
 msgid "Cannot find path to start of line!"
 msgstr "找不到线路的起点!"
 
-#v1.1.37
+#v1.3.13
 msgctxt "line_list_sort_alpha"
-msgid "Alphabetical"
-msgstr "按字母顺序"
+msgid "Sort by: Alphabetical"
+msgstr "排序方式： 按字母顺序"
 
-#v1.1.37
+#v1.3.13
 msgctxt "line_list_sort_pax_Compensation"
-msgid "Compensations"
-msgstr "赔偿"
+msgid "Sort by: Compensations"
+msgstr "排序方式： 赔偿"
 
-#v1.1.37
+#v1.3.13    
 msgctxt "line_list_sort_pax_board"
-msgid "Boarded"
-msgstr "登车"
+msgid "Sort by: Boarded"
+msgstr "排序方式： 登车"
 
-#v1.1.37
+#v1.3.13
 msgctxt "line_list_sort_pax_fares"
-msgid "Fares"
-msgstr "票价"
+msgid "Sort by: Fares"
+msgstr "排序方式：票价"
 
-#v1.1.37
+#v1.3.13
 msgctxt "line_list_sort_pax_profit"
-msgid "Profit"
-msgstr "利润"
+msgid "Sort by: Profit"
+msgstr "排序方式： 利润"
 
-#v1.1.37
+#v1.3.13
 msgctxt "line_list_sort_pax_refunds"
-msgid "Refunds"
-msgstr "退票"
+msgid "Sort by: Refunds"
+msgstr "排序方式： 退票"
 
 #v1.1.31
 msgctxt "line_n_stops"
@@ -3257,9 +3528,9 @@ msgctxt "lines_n_many"
 msgid "%d lines"
 msgstr "%d条 线路"
 
-#v1.1.37
+#v1.3.13
 msgctxt "list_sort_reverse"
-msgid "Reverse"
+msgid "Reverse sorting"
 msgstr "倒序"
 
 #v1.1.31
@@ -3537,9 +3808,9 @@ msgctxt "mode_map_default"
 msgid "Plain map [Home]"
 msgstr "地图模式"
 
-#v1.1.37
+#v1.3.13
 msgctxt "mode_map_population"
-msgid "Population overlay [Home]"
+msgid "Population layer"
 msgstr "人口指示器"
 
 #v1.1.37
@@ -4062,10 +4333,10 @@ msgctxt "paxlist_n_pax"
 msgid "{} pax"
 msgstr "{} 乘客"
 
-#v1.1.37
+#v1.3.13    
 msgctxt "pending_validations"
-msgid "Validating tracks and stations, {} to go"
-msgstr "验证轨道和车站中，还剩 {} "
+msgid "Validating tracks, {} to go"
+msgstr "验证轨道中，还剩 {} "
 
 #v1.1.31
 msgctxt "pick_a_local_mod"
