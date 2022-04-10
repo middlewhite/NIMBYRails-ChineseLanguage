@@ -1,6 +1,439 @@
-# -------2021-12-17----------------------------------------
-# ---------17-25-26----------------------------------------
+# -------2022-04-10----------------------------------------
+# ---------13-55-49----------------------------------------
 # 
+
+
+
+# ----------------------------------------------------------
+# v1.4.15_new strings
+
+#v1.4.15
+msgctxt "accounting_construction_buildings"
+msgid "Buildings"
+msgstr "建筑物"
+
+#v1.4.15
+msgctxt "alerts_pause_game"
+msgid "Alerts pause game"
+msgstr "警报时暂停游戏"
+
+#v1.4.15
+msgctxt "alerts_pause_game_fastest"
+msgid "Even at fastest speed"
+msgstr "即使在最高速度"
+
+#v1.4.15
+msgctxt "bill_show_full"
+msgid "Show full billing details"
+msgstr "显示完整的帐单信息"
+
+#v1.4.15
+msgctxt "building_all_kinds_info"
+msgid "Show all building kinds and pick your favorites"
+msgstr "显示所有建筑类型并设定预设"
+
+#v1.4.15
+msgctxt "building_constraint_curved"
+msgid "Trace track curve"
+msgstr "跟踪轨道曲线"
+
+#v1.4.15
+msgctxt "building_constraint_draw_layer"
+msgid "Draw depth:"
+msgstr "绘制深度:"
+
+#v1.4.15
+msgctxt "building_constraint_pick"
+msgid "Pick track"
+msgstr "选择轨道"
+
+#v1.4.15
+msgctxt "building_constraint_type"
+msgid "Locked to track:"
+msgstr "锁定跟踪:"
+
+#v1.4.15
+msgctxt "building_constraints_editor"
+msgid "Building properties"
+msgstr "建筑物属性"
+
+#v1.4.15
+msgctxt "building_draw_layer_0"
+msgid "Under tracks"
+msgstr "在轨道下"
+
+#v1.4.15
+msgctxt "building_draw_layer_1"
+msgid "Over tracks"
+msgstr "在轨道上"
+
+#v1.4.15
+msgctxt "building_draw_layer_3"
+msgid "Roof"
+msgstr "屋顶"
+
+#v1.4.15
+msgctxt "building_info_price_f"
+msgid "${} per m\xC2\xB2"
+msgstr "${} \ m²"
+
+#v1.4.15
+msgctxt "building_label"
+msgid "[*] Label"
+msgstr "标签 [*]"
+
+#v1.4.15
+msgctxt "building_label_bg_fill"
+msgid "Fill background"
+msgstr "填充背景"
+
+#v1.4.15
+msgctxt "building_label_font"
+msgid "Font size:"
+msgstr "字体大小:"
+
+#v1.4.15
+msgctxt "building_label_font_0"
+msgid "Small"
+msgstr "小"
+
+#v1.4.15
+msgctxt "building_label_font_1"
+msgid "Medium"
+msgstr "中"
+
+#v1.4.15
+msgctxt "building_label_font_2"
+msgid "Large"
+msgstr "大"
+
+#v1.4.15
+msgctxt "building_label_text"
+msgid "Text:"
+msgstr "文本:"
+
+#v1.4.15
+msgctxt "building_max_zoom"
+msgid "Max zoom:"
+msgstr "最大缩放:"
+
+#v1.4.15
+msgctxt "building_platform_footprint_extension"
+msgid "[*] Platform footprint extension"
+msgstr "站台 [*] 扩展"
+
+#v1.4.15
+msgctxt "buildings_total"
+msgid "Buildings total"
+msgstr "建筑物总数"
+
+#v1.4.15
+msgctxt "client_blueprint_bill_short"
+msgid "My blueprints"
+msgstr "我的蓝图"
+
+#v1.4.15
+msgctxt "clip_auto_name"
+msgid "Clip #{}"
+msgstr "Clip #{}"
+
+#v1.4.15
+msgctxt "confirm_clip_unknown"
+msgid "Clip contains unknown objects or mods"
+msgstr "Clip包含未知对象或模组"
+
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_1"
+msgid "One or more objects in the clip references an unknown object kind:\n"
+msgstr "Clip中的一个或多个对象引用了一种未知对象类型:\n"
+
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_2"
+msgid "One or more objects in the clip references an unknown mod:\n"
+msgstr "Clip中的一个或多个对象引用了一个未知的模组:\n"
+
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_3"
+msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
+msgstr "使用内置复制以用内置对象替换未知对象，避免将新的模块和对象类型导入游戏.\n"
+
+#v1.4.15
+msgctxt "confirm_clip_unknown_desc_4"
+msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
+msgstr "复制新的模组以导入新的对象类型并在您的游戏中启用它们的模组。 如果您尚未订阅，则需要在 Steam 创意工坊中订阅这些模组。"
+
+#v1.4.15
+msgctxt "constraint_disp"
+msgid "Displace (m):"
+msgstr "替换 (m):"
+
+#v1.4.15
+msgctxt "constraint_straight"
+msgid "Keep straight"
+msgstr "保持直行"
+
+#v1.4.15
+msgctxt "copied_from_coll"
+msgid "Copied! Paste with Ctrl-V"
+msgstr "已复制，使用 Ctrl-V 粘贴"
+
+#v1.4.15
+msgctxt "default_user_label"
+msgid "Edit me"
+msgstr "编辑"
+
+#v1.4.15
+msgctxt "delete_clip"
+msgid "Delete clip"
+msgstr "删除 clip"
+
+#v1.4.15
+msgctxt "edit_clip_name"
+msgid "Edit clip name"
+msgstr "编辑 clip 名称"
+
+#v1.4.15
+msgctxt "editor_building"
+msgid "Create new buildings"
+msgstr "创建新建筑"
+
+#v1.4.15
+msgctxt "editor_pick_building_parent_left"
+msgid "Click a control point to make it the building parent"
+msgstr "单击控制点使其成为建筑父级"
+
+#v1.4.15
+msgctxt "editor_tip_copy"
+msgid "Ctrl-C to copy selected objects into clipboard"
+msgstr "Ctrl-C 将选定对象复制到剪贴板"
+
+#v1.4.15
+msgctxt "editor_tip_create_drag_alt"
+msgid "Alt and drag any selected control point to rotate the selection"
+msgstr "Alt 并拖动任何选定的控制点以旋转选择"
+
+#v1.4.15
+msgctxt "editor_tip_move_building_sizer"
+msgid "Drag the building control point to resize and rotate the building"
+msgstr "拖动建筑控制点来调整和旋转建筑"
+
+#v1.4.15
+msgctxt "editor_tip_move_building_sizer_ctrl"
+msgid "Hold Ctrl to line up the control point on its current axis."
+msgstr "按住 Ctrl 以在其当前轴上对齐控制点。"
+
+#v1.4.15
+msgctxt "editor_tip_new_building_fin_left"
+msgid "Left click to finish creating a new building"
+msgstr "左键点击完成新建建筑"
+
+#v1.4.15
+msgctxt "editor_tip_new_building_left"
+msgid "Left click to create a new building"
+msgstr "左键单击创建新建筑"
+
+#v1.4.15
+msgctxt "editor_tip_paste"
+msgid "Ctrl-V to paste clipboard objects"
+msgstr "Ctrl-V 粘贴剪贴板对象"
+
+#v1.4.15
+msgctxt "editor_tip_rot_left"
+msgid "Release left button to stop rotating the selection"
+msgstr "松开左键停止旋转选择"
+
+#v1.4.15
+msgctxt "empty_clipboard"
+msgid "<Empty clipboard>"
+msgstr "<空剪贴板>"
+
+#v1.4.15
+msgctxt "enable_new_mods"
+msgid "Copy with new mods"
+msgstr "复制新的模组"
+
+#v1.4.15
+msgctxt "global_blueprint_bill_short"
+msgid "Global"
+msgstr "全局"
+
+#v1.4.15
+msgctxt "help_show_full"
+msgid "Show help"
+msgstr "显示帮助"
+
+#v1.4.15
+msgctxt "info_company_buildings"
+msgid "Buildings:"
+msgstr "建筑物:"
+
+#v1.4.15
+msgctxt "info_company_lines"
+msgid "Lines:"
+msgstr "线路:"
+
+#v1.4.15
+msgctxt "info_company_stations"
+msgid "Stations:"
+msgstr "站点:"
+
+#v1.4.15
+msgctxt "info_company_tracks"
+msgid "Track segments:"
+msgstr "轨道段:"
+
+#v1.4.15
+msgctxt "info_company_trains"
+msgid "Trains:"
+msgstr "列车:"
+
+#v1.4.15
+msgctxt "invalid_size"
+msgid "invalid size"
+msgstr "尺寸无效"
+
+#v1.4.15
+msgctxt "kb_track_building"
+msgid "Tracks: new building"
+msgstr "轨道: 新建筑"
+
+#v1.4.15
+msgctxt "layer_ground_g"
+msgid "G"
+msgstr "0"
+
+#v1.4.15
+msgctxt "loader_tracks_n"
+msgid "Validating tracks, {} to go"
+msgstr "检查轨道, 剩余{}"
+
+#v1.4.15
+msgctxt "mvo_user_labels"
+msgid "User labels"
+msgstr "用户标签"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_over_O"
+msgid "O"
+msgstr "上"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_roof_R"
+msgid "R"
+msgstr "顶"
+
+#v1.4.15
+msgctxt "mvo_user_layer_draw_under_U"
+msgid "U"
+msgstr "下"
+
+#v1.4.15
+msgctxt "mvo_user_layer_toggles"
+msgid "Display layers:"
+msgstr "显示图层:"
+
+#v1.4.15
+msgctxt "mvo_user_platform_names"
+msgid "Platform names"
+msgstr "站台名称"
+
+#v1.4.15
+msgctxt "mvo_user_track_depth"
+msgid "Tunnels under roads"
+msgstr "隧道在道路下方"
+
+#v1.4.15
+msgctxt "open_games_backup_folder_tooltip"
+msgid "Open saved games auto backup folder"
+msgstr "打开存档自动备份文件夹"
+
+#v1.4.15
+msgctxt "plat_buildings_base"
+msgid "Auto append building base"
+msgstr "自动添加基地建筑"
+
+#v1.4.15
+msgctxt "plat_buildings_floor"
+msgid "Auto append building floors and ceiling"
+msgstr "自动附加建筑物地板和天花板"
+
+#v1.4.15
+msgctxt "plat_curved"
+msgid "Curved tracks and buildings"
+msgstr "弯曲的轨道和建筑物"
+
+#v1.4.15
+msgctxt "plats_n_0"
+msgid "0 platforms"
+msgstr "0 站台"
+
+#v1.4.15
+msgctxt "plats_n_1"
+msgid "1 platform"
+msgstr "1 站台"
+
+#v1.4.15
+msgctxt "plats_n_many"
+msgid "%d platforms"
+msgstr "%d 站台"
+
+#v1.4.15
+msgctxt "save_clipboard"
+msgid "Save clipboard"
+msgstr "保存剪贴板"
+
+#v1.4.15
+msgctxt "selection_blueprint_bill_short"
+msgid "Selected"
+msgstr "选中"
+
+#v1.4.15
+msgctxt "show_all_clips"
+msgid "Show saved clipboard clips"
+msgstr "显示保存的剪贴板clips"
+
+#v1.4.15
+msgctxt "signal_edit_invalid_track"
+msgid "This signal is still functional but it is not allowed on this kind of track starting from version 1.4. Some train maneuvers might be disabled in this track. Move it to a different track."
+msgstr "此信号仍然有效，但从 1.4 版开始，不允许在此类轨道上使用。 在这条轨道上，一些火车机动可能会被禁用。 将其移至不同的轨道。"
+
+#v1.4.15
+msgctxt "signal_edit_plat_stop_obsolete"
+msgid "This signal is still functional but it has been obsoleted. Some train maneuvers might be disabled in this track."
+msgstr "该信号仍然有效，但已被淘汰。 在这条轨道上，一些火车机动可能会被禁用。"
+
+#v1.4.15
+msgctxt "signal_edit_simple_block_obsolete"
+msgid "This signal is still functional but it has been obsoleted by path signals. Replace your simple block signaling with path signals."
+msgstr "该信号仍然有效，但已被路径信号淘汰。 用路径信号替换简单的块信号。"
+
+#v1.4.15
+msgctxt "station_platform_auto_name"
+msgid "Platform auto name"
+msgstr "站台自动命名"
+
+#v1.4.15
+msgctxt "station_platform_user_name"
+msgid "Platform name:"
+msgstr "站台名:"
+
+#v1.4.15
+msgctxt "trackeditor_hide_controls"
+msgid "Hide control points at low zoom"
+msgstr "缩小视图时隐藏控制点"
+
+#v1.4.15
+msgctxt "tracks_total"
+msgid "Tracks total"
+msgstr "轨道总数"
+
+#v1.4.15
+msgctxt "use_placeholders"
+msgid "Copy with built-in"
+msgstr "使用内置复制"
+
+
+
 
 
 # ----------------------------------------------------------

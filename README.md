@@ -6,12 +6,12 @@
 ##### Steam创意工坊订阅：
 订阅即可
 ##### GitHub下载：
-下载后解压缩至*C:\Users\<您的用户名>\Saved Games\Weird and Wry\NIMBY Rails\mods*文件夹下
+下载后解压缩至* C:\Users\ <您的用户名> \Saved Games\Weird and Wry\NIMBY Rails\mods\ <任意新建的目录> *文件夹下
 
 #### 使用方式：游戏主菜单 -> Options -> Language -> SChinese
 
 
-###### 目前翻译补丁所使用的游戏版本：1.3.13，并将尽可能在游戏更新第一时间更新汉化补丁。
+###### 目前翻译补丁所使用的游戏版本：1.4.15，并将尽可能在游戏更新第一时间更新汉化补丁。
 
 ------------
 
