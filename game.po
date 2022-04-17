@@ -1,5 +1,5 @@
-# -------2022-04-10----------------------------------------
-# ---------13-55-49----------------------------------------
+# -------2022-04-17----------------------------------------
+# ---------12-49-54----------------------------------------
 # 
 
 
@@ -350,12 +350,12 @@ msgstr "打开存档自动备份文件夹"
 #v1.4.15
 msgctxt "plat_buildings_base"
 msgid "Auto append building base"
-msgstr "自动添加基地建筑"
+msgstr "自动添加地基建筑"
 
 #v1.4.15
 msgctxt "plat_buildings_floor"
 msgid "Auto append building floors and ceiling"
-msgstr "自动附加建筑物地板和天花板"
+msgstr "自动添加建筑物地板和天花板"
 
 #v1.4.15
 msgctxt "plat_curved"
@@ -793,7 +793,7 @@ msgstr "双站台靠左行驶"
 #v1.2.29
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "双站台自动添加交叉点及路径信号灯"
+msgstr "双站台自动添加交叉渡线及路径信号灯"
 
 #v1.2.29
 msgctxt "teo.plat_auto_stops"
@@ -1234,7 +1234,7 @@ msgstr "{0}, {1} km"
 #v1.2.22
 msgctxt "lineeditor_interval_time"
 msgid "Interval time (mm:ss):"
-msgstr "换乘时间 (分:秒):"
+msgstr "间隔时间 (分:秒):"
 
 #v1.2.22
 msgctxt "lineeditor_interval_time_desc"
@@ -1563,7 +1563,7 @@ msgstr "列车"
 #v1.1.72
 msgctxt "balance"
 msgid "Balance"
-msgstr "平衡"
+msgstr "结余"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash"
