@@ -1,5 +1,5 @@
-# -------2022-04-17----------------------------------------
-# ---------12-49-54----------------------------------------
+# -------2022-04-27----------------------------------------
+# ---------11-29-31----------------------------------------
 # 
 
 
@@ -1309,7 +1309,7 @@ msgstr "空车运行"
 #v1.2.22
 msgctxt "lineeditor_stop_interval_wait_here"
 msgid "Interval wait in this stop"
-msgstr "在本站换乘等待"
+msgstr "在本站启用间隔时间"
 
 #v1.2.22
 msgctxt "lineeditor_stop_panel_editor"
@@ -1319,7 +1319,7 @@ msgstr "停止 {0}: {1}"
 #v1.2.22
 msgctxt "mode_map_tracks_signals"
 msgid "Track reservations"
-msgstr "轨道信号"
+msgstr "信号视图"
 
 #v1.2.22
 msgctxt "mvo_user_signals"
@@ -1713,7 +1713,7 @@ msgstr "--- 财务 ---"
 #v1.1.72
 msgctxt "sort_sep_real_time"
 msgid "--- Real time ---"
-msgstr "--- 真实时间 ---"
+msgstr "--- 实时 ---"
 
 #v1.1.72
 msgctxt "switch_no_cash"
@@ -4244,22 +4244,22 @@ msgstr "地图模式"
 #v1.3.13
 msgctxt "mode_map_population"
 msgid "Population layer"
-msgstr "人口指示器"
+msgstr "人口视图"
 
 #v1.1.37
 msgctxt "mode_map_tracks"
 msgid "Plain tracks [End]"
-msgstr "轨道指示器"
+msgstr "轨道视图"
 
 #v1.1.37
 msgctxt "mode_map_tracks_lines"
 msgid "Lines overlay [End]"
-msgstr "线路指示器"
+msgstr "线路视图"
 
 #v1.1.37
 msgctxt "mode_map_tracks_speed"
 msgid "Speed overlay [End]"
-msgstr "速度指示器"
+msgstr "速度视图"
 
 #v1.1.31
 msgctxt "mods"
