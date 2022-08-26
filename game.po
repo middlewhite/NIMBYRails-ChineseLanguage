@@ -1,7 +1,126 @@
-# -------2022-04-27----------------------------------------
-# ---------11-29-31----------------------------------------
+# -------2022-08-26----------------------------------------
+# ---------12-52-22----------------------------------------
 # 
 
+
+
+# ----------------------------------------------------------
+# v1.4.22_new strings
+
+#v1.4.22
+msgctxt "building_bottom_side"
+msgid "Bottom side:"
+msgstr "底部:"
+
+#v1.4.22
+msgctxt "building_decal"
+msgid "Decal:"
+msgstr "标签:"
+
+#v1.4.22
+msgctxt "building_decal_color"
+msgid "Decal color:"
+msgstr "标签颜色:"
+
+#v1.4.22
+msgctxt "building_decal_none"
+msgid "<None>"
+msgstr "<无>"
+
+#v1.4.22
+msgctxt "building_end_t"
+msgid "End t (0 to 1):"
+msgstr "结束 t (0 到 1):"
+
+#v1.4.22
+msgctxt "building_height"
+msgid "Height:"
+msgstr "高度:"
+
+#v1.4.22
+msgctxt "building_start_t"
+msgid "Start t (0 to 1):"
+msgstr "开始 t (0 到 1):"
+
+#v1.4.22
+msgctxt "building_top_side"
+msgid "Top side:"
+msgstr "顶部:"
+
+#v1.4.22
+msgctxt "building_width"
+msgid "Width:"
+msgstr "宽度:"
+
+#v1.4.22
+msgctxt "confirm_collection_delete"
+msgid "Delete collection"
+msgstr "删除收藏夹"
+
+#v1.4.22
+msgctxt "confirm_collection_delete_body"
+msgid "Delete the selected collection?"
+msgstr "删除选择的收藏夹?"
+
+#v1.4.22
+msgctxt "confirm_collection_delete_ok"
+msgid "Delete collection"
+msgstr "删除收藏夹"
+
+#v1.4.22
+msgctxt "delete_collection"
+msgid "Delete collection"
+msgstr "删除收藏夹"
+
+#v1.4.22
+msgctxt "edit_collection_name"
+msgid "Edit collection name"
+msgstr "编辑收藏夹名称"
+
+#v1.4.22
+msgctxt "local_bp_collection"
+msgid "Collection to upload:"
+msgstr "选择要上传的收藏:"
+
+#v1.4.22
+msgctxt "mod_category_label"
+msgid "Category:"
+msgstr "类别:"
+
+#v1.4.22
+msgctxt "mod_kind_assets"
+msgid "Assets"
+msgstr "资产"
+
+#v1.4.22
+msgctxt "mod_kind_blueprints"
+msgid "Blueprints"
+msgstr "蓝图"
+
+#v1.4.22
+msgctxt "my_collection"
+msgid "My collection"
+msgstr "我的收藏"
+
+#v1.4.22
+msgctxt "new_collection"
+msgid "New collection"
+msgstr "创建收藏夹"
+
+#v1.4.22
+msgctxt "pick_a_local_collection"
+msgid "Pick a private collection"
+msgstr "选择私有收藏"
+
+#v1.4.22
+msgctxt "return_game"
+msgid "Return to game"
+msgstr "返回游戏"
+
+#v1.4.22
+msgctxt "stream_catch_up_desc2"
+msgid "You are falling behind the host. Speeding up the clock to catch up. Lag frames: {}"
+msgstr "你的时间落后于主机。请加快时间以于主机时间同步. 滞后时间: {}"
 
 
 # ----------------------------------------------------------
@@ -164,8 +283,8 @@ msgstr "复制新的模组以导入新的对象类型并在您的游戏中启用
 
 #v1.4.15
 msgctxt "constraint_disp"
-msgid "Displace (m):"
-msgstr "替换 (m):"
+msgid "Displace:"
+msgstr "替换:"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -933,8 +1052,8 @@ msgstr "翻转"
 
 #v1.2.22
 msgctxt "constraint_offset"
-msgid "Offset (m):"
-msgstr "偏移量(米):"
+msgid "Offset:"
+msgstr "偏移量:"
 
 #v1.2.22
 msgctxt "constraint_pick"
@@ -1334,7 +1453,7 @@ msgstr "绑定任意按键或按退格键清除"
 #v1.2.22
 msgctxt "options_keybinds"
 msgid "Keybinds"
-msgstr "快捷键"
+msgstr "按键"
 
 #v1.2.22
 msgctxt "plat_auto_direction"
@@ -2974,12 +3093,12 @@ msgstr "复制"
 #v1.1.31
 msgctxt "credits"
 msgid "Credits"
-msgstr "翻译补丁:middlewhite"
+msgstr "制作团队"
 
 #v1.1.31
 msgctxt "credits_acknowledgments"
 msgid "Acknowledgments"
-msgstr "致谢"
+msgstr "鸣谢"
 
 #v1.1.31
 msgctxt "credits_art"
