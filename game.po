@@ -1,5 +1,5 @@
-# -------2022-10-02----------------------------------------
-# ---------13-10-36----------------------------------------
+# -------2022-10-06----------------------------------------
+# ---------21-44-40----------------------------------------
 # 
 
 
@@ -9,7 +9,7 @@
 #v1.5.31
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "事件"
+msgstr "乘客"
 
 #v1.5.31
 msgctxt "accounting_pax_found_train_too_full"
@@ -589,7 +589,7 @@ msgstr "仅点"
 #v1.5.31
 msgctxt "station_label_mode_full"
 msgid "Full"
-msgstr "满"
+msgstr "全部"
 
 #v1.5.31
 msgctxt "station_label_mode_icon_only"
