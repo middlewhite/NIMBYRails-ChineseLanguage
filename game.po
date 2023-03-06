@@ -1,6 +1,345 @@
-# -------2022-10-31----------------------------------------
-# ---------18-36-19----------------------------------------
+# -------2023-03-06----------------------------------------
+# ---------19-55-30----------------------------------------
 # 
+
+
+# ----------------------------------------------------------
+# v1.6.13_new strings
+
+#v1.6.13
+msgctxt "constraint_demote_platforms"
+msgid "Demote into normal track"
+msgstr "降级到正常轨道"
+
+#v1.6.13
+msgctxt "delete_only_bp"
+msgid "Delete only blueprints"
+msgstr "仅删除蓝图"
+
+#v1.6.13
+msgctxt "editor_sat_building_tape"
+msgid "Building tape"
+msgstr "建筑模式"
+
+#v1.6.13
+msgctxt "editor_sat_parallel_tape"
+msgid "Parallel track tape"
+msgstr "平行磁道模式"
+
+#v1.6.13
+msgctxt "editor_sat_platform_tape"
+msgid "Station platform tape"
+msgstr "车站站台模式"
+
+#v1.6.13
+msgctxt "editor_sat_promote_station"
+msgid "Promote tracks into station platforms"
+msgstr "将轨道提升至车站站台"
+
+#v1.6.13
+msgctxt "editor_sat_split"
+msgid "Split tracks"
+msgstr "拆分轨道"
+
+#v1.6.13
+msgctxt "editor_sat_track_tape"
+msgid "Track tape"
+msgstr "轨道模式"
+
+#v1.6.13
+msgctxt "editor_tip_create_del_inline"
+msgid "Shift-Del to delete selected inner tracks"
+msgstr "Shift-Del删除选择的内容"
+
+#v1.6.13
+msgctxt "editor_tip_sat_building_tape_alt"
+msgid "Alt to create symmetrical buildings on both sides of the track"
+msgstr "Alt可在轨道两侧创建对称建筑"
+
+#v1.6.13
+msgctxt "editor_tip_sat_building_tape_left"
+msgid "Click near tracks to create new attached buildings"
+msgstr "单击轨道附近以创建新的附着建筑"
+
+#v1.6.13
+msgctxt "editor_tip_sat_building_tape_shift"
+msgid "Shift to create buildings in all children when starting in a parent track"
+msgstr "在父轨道中开始时，切换以在所有子对象中创建建筑"
+
+#v1.6.13
+msgctxt "editor_tip_sat_esc"
+msgid "Esc to go to edit mode"
+msgstr "按Esc转到编辑模式"
+
+#v1.6.13
+msgctxt "editor_tip_sat_parallel_tape_left"
+msgid "Click on tracks to attach new parallel tracks"
+msgstr "单击轨道以附加新的平行轨道"
+
+#v1.6.13
+msgctxt "editor_tip_sat_platform_tape_left"
+msgid "Click on tracks to tape them over with a new station platform"
+msgstr "UNUSED 点击轨道，将其与新的车站站台粘在一起"
+
+#v1.6.13
+msgctxt "editor_tip_sat_promote_station_left"
+msgid "Click on tracks to promote them and their nearest sibling into a station platform"
+msgstr "点击轨道，将他们和他们最近的轨道层提升到车站站台"
+
+#v1.6.13
+msgctxt "editor_tip_sat_split_left"
+msgid "Click on tracks to split them at the point of click"
+msgstr "单击轨道以在单击点拆分它们"
+
+#v1.6.13
+msgctxt "editor_tip_sat_station_tape_left"
+msgid "Click on tracks to tape them over with a new station"
+msgstr "UNUSED 单击轨道以将其复制到新车站"
+
+#v1.6.13
+msgctxt "editor_tip_sat_track_tape_left"
+msgid "Click on tracks to tape them over with new kind and layer of track"
+msgstr "点击轨道，用新的轨道模式和层次将其录制"
+
+#v1.6.13
+msgctxt "editor_tip_weight_left"
+msgid "Release left button to stop moving the track weighting"
+msgstr "释放左侧按钮以停止移动轨道配重"
+
+#v1.6.13
+msgctxt "game_wiki"
+msgid "NIMBY Rails Wiki"
+msgstr "NIMBY Rails Wiki"
+
+#v1.6.13
+msgctxt "host_server_bad_ip"
+msgid "Cannot detect public IP, use Steam Relay"
+msgstr "无法检测公共IP，请使用Steam Relay"
+
+#v1.6.13
+msgctxt "host_server_direct_warn"
+msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
+msgstr "您的电脑或路由器必须通过公共IP直接连接到互联网。您必须将路由器中的UDP端口{}转发到PC，并设置防火墙以允许连接。VPN、代理和CG-NAT将击败此功能。如果此功能不适用于您的连接，Weird and Wry无法提供技术支持。"
+
+#v1.6.13
+msgctxt "host_server_ipv4"
+msgid "Detected public IPv4:"
+msgstr "检测到公用IPv4:"
+
+#v1.6.13
+msgctxt "host_server_ipv6"
+msgid "Detected public IPv6:"
+msgstr "检测到公共IPv6:"
+
+#v1.6.13
+msgctxt "host_server_mode"
+msgid "Connection:"
+msgstr "连接:"
+
+#v1.6.13
+msgctxt "host_server_mode_direct"
+msgid "Direct"
+msgstr "直连"
+
+#v1.6.13
+msgctxt "host_server_mode_direct_desc"
+msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
+msgstr "客户端将尝试使用您的连接公共IP地址直接连接到您的电脑。\n如果您的连接有足够的上传带宽，则允许托管更大的版本。"
+
+#v1.6.13
+msgctxt "host_server_mode_relay"
+msgid "Steam Relay Network"
+msgstr "Steam Relay 网络"
+
+#v1.6.13
+msgctxt "host_server_mode_relay_desc"
+msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
+msgstr "客户端通过Steam中继网络连接到您的PC。\n这是一个安全、优化的CDN，它隐藏了您的IP，但具有内置的带宽上限。"
+
+#v1.6.13
+msgctxt "host_server_port"
+msgid "UDP Port:"
+msgstr "UDP端口:"
+
+#v1.6.13
+msgctxt "host_server_wait_ip"
+msgid "Detecting public IP..."
+msgstr "正在检测公共IP..."
+
+#v1.6.13
+msgctxt "host_sim_mode"
+msgid "Simulation:"
+msgstr "模拟:"
+
+#v1.6.13
+msgctxt "host_sim_mode_private"
+msgid "Private"
+msgstr "私人"
+
+#v1.6.13
+msgctxt "host_sim_mode_private_desc"
+msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
+msgstr "每个客户的时间、列车运动和乘客模拟都是独立的。\n轨道、线路和列车可协同编辑。\n缩放到比共享模拟更大的构建尺寸。\n游戏总是设置为无限金钱。"
+
+#v1.6.13
+msgctxt "host_sim_mode_shared"
+msgid "Shared"
+msgstr "共有"
+
+#v1.6.13
+msgctxt "host_sim_mode_shared_desc"
+msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
+msgstr "时间、列车运动和乘客模拟在所有客户端之间共享和同步。\n轨道、线路和列车可协同编辑。"
+
+#v1.6.13
+msgctxt "kb_track_sat_building_tape"
+msgid "Tracks: building tape"
+msgstr "轨道：建造模式"
+
+#v1.6.13
+msgctxt "kb_track_sat_parallel_tape"
+msgid "Tracks: parallel tape"
+msgstr "轨道：平行模式"
+
+#v1.6.13
+msgctxt "kb_track_sat_split"
+msgid "Tracks: split"
+msgstr "轨道：拆分"
+
+#v1.6.13
+msgctxt "kb_track_sat_station_tape"
+msgid "Tracks: station tape"
+msgstr "轨道：车站模式"
+
+#v1.6.13
+msgctxt "kb_track_sat_track_tape"
+msgid "Tracks: track tape"
+msgstr "轨道：轨道模式"
+
+#v1.6.13
+msgctxt "key_info_hold"
+msgid "[Hold: {}]"
+msgstr "[按住: {}]"
+
+#v1.6.13
+msgctxt "key_info_hold_missing"
+msgid "[Missing key bind]"
+msgstr "[无按键绑定]"
+
+#v1.6.13
+msgctxt "loader_loading_db"
+msgid "Loading database"
+msgstr "加载数据库中"
+
+#v1.6.13
+msgctxt "loader_loading_sim"
+msgid "Loading simulation state"
+msgstr "加载模拟状态"
+
+#v1.6.13
+msgctxt "loader_validating_db"
+msgid "Validating database"
+msgstr "正在验证数据库"
+
+#v1.6.13
+msgctxt "mod_open_folder"
+msgid "Open mod.txt"
+msgstr "UNUSED Open mod.txt"
+
+#v1.6.13
+msgctxt "station_platform_demote"
+msgid "Demote platform into normal track"
+msgstr "将站台降级至正常轨道"
+
+#v1.6.13
+msgctxt "stream_waiting_for_player"
+msgid "Waiting for player {}"
+msgstr "正在等待玩家 {}"
+
+#v1.6.13
+msgctxt "tape_building_props"
+msgid "Tape building properties"
+msgstr "轨道建造财产"
+
+#v1.6.13
+msgctxt "tape_warn_built"
+msgid "Already built"
+msgstr "已建造"
+
+#v1.6.13
+msgctxt "tape_warn_invalid_elements"
+msgid "Invalid geometry or elements"
+msgstr "无效的几何图形或元素"
+
+#v1.6.13
+msgctxt "tape_warn_invalid_length"
+msgid "Invalid length"
+msgstr "长度无效"
+
+#v1.6.13
+msgctxt "tape_warn_too_complex"
+msgid "Too complex"
+msgstr "过于复杂"
+
+#v1.6.13
+msgctxt "tape_warn_too_long"
+msgid "Too long"
+msgstr "过长"
+
+#v1.6.13
+msgctxt "track_sat_tools"
+msgid "Split and tape tools"
+msgstr "拆分和轨道工具"
+
+#v1.6.13
+msgctxt "trackeditor_hold_keybinds"
+msgid "Track tool keybind hold mode"
+msgstr "轨道工具保持模式"
+
+#v1.6.13
+msgctxt "train_bulk_change_orders"
+msgid "Change orders in selection"
+msgstr "选择中的命令单"
+
+#v1.6.13
+msgctxt "train_bulk_intervention"
+msgid "Intervene selection"
+msgstr "干预选择"
+
+#v1.6.13
+msgctxt "train_bulk_sell"
+msgid "Sell selection"
+msgstr "出售选择"
+
+#v1.6.13
+msgctxt "train_info_camera"
+msgid "Auto scroll map following train position"
+msgstr "列车位置自动滚动地图"
+
+#v1.6.13
+msgctxt "train_info_path_probe"
+msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
+msgstr "从列车到鼠标位置的路径查找探针\n单击以获得固定的鼠标位置"
+
+#v1.6.13
+msgctxt "train_info_path_probe_dest"
+msgid "Pathfind probe from train to its current destination"
+msgstr "从列车到当前目的地的路径查找探测器"
+
+#v1.6.13
+msgctxt "train_info_pin"
+msgid "Scroll map to train position"
+msgstr "滚动地图至列车位置"
+
+#v1.6.13
+msgctxt "train_list_filter_alert_stale"
+msgid "Stale"
+msgstr "失效"
+
+#v1.6.13
+msgctxt "train_orders_mode_ignore"
+msgid "< Do not change >"
+msgstr "< 不要更改 >"
 
 
 # ----------------------------------------------------------
@@ -4626,8 +4965,8 @@ msgstr "点击地图上的车库以设置列车顺序"
 
 #v1.1.37
 msgctxt "editor_station"
-msgid "Create new s[T]ation platforms"
-msgstr "创建新的车站站台"
+msgid "Create stations"
+msgstr "创建站台"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
